@@ -1,0 +1,4 @@
+ABSTENGO MONTERO - sitio estatico (HTML, CSS y JS)
+Subir a Vercel: reemplaza el contenido de tu repositorio con esta carpeta (index.html en la raiz) y haz push, o arrastra la carpeta en vercel.com/new. No requiere build.
+Cada producto tiene su pagina en /producto/<id>.html. Los datos estan en products.json.
+Las descripciones y especificaciones se generaron a partir del nombre del producto: revisalas.

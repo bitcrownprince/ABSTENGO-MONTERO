@@ -1,0 +1,13730 @@
+window.CATALOG={
+ "categories": [
+  {
+   "id": "neumaticos",
+   "title": "Neumáticos",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Neum%C3%A1ticos",
+   "count": 86,
+   "groups": [
+    {
+     "key": "rin 12",
+     "title": "RIN 12",
+     "banner": null
+    },
+    {
+     "key": "rin 13",
+     "title": "RIN 13",
+     "banner": null
+    },
+    {
+     "key": "rin 14",
+     "title": "RIN 14",
+     "banner": null
+    },
+    {
+     "key": "rin 15",
+     "title": "RIN 15",
+     "banner": null
+    },
+    {
+     "key": "rin 16",
+     "title": "RIN 16",
+     "banner": null
+    },
+    {
+     "key": "rin 17",
+     "title": "RIN 17",
+     "banner": null
+    },
+    {
+     "key": "rin 17.5",
+     "title": "RIN 17.5",
+     "banner": null
+    },
+    {
+     "key": "rin 18",
+     "title": "RIN 18",
+     "banner": null
+    },
+    {
+     "key": "rin 19",
+     "title": "RIN 19",
+     "banner": null
+    },
+    {
+     "key": "rin 19.5",
+     "title": "RIN 19.5",
+     "banner": null
+    },
+    {
+     "key": "rin 20",
+     "title": "RIN 20",
+     "banner": null
+    },
+    {
+     "key": "rin 22",
+     "title": "RIN 22",
+     "banner": null
+    },
+    {
+     "key": "rin 22.5",
+     "title": "RIN 22.5",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "motos",
+   "title": "Neumáticos de motos",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Neum%C3%A1ticos%20de%20motos",
+   "count": 26,
+   "groups": [
+    {
+     "key": "medida",
+     "title": "Medida",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "camiones",
+   "title": "Neumáticos de camiones",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Neum%C3%A1ticos%20de%20camiones",
+   "count": 17,
+   "groups": [
+    {
+     "key": "medida",
+     "title": "Medida",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "camaras",
+   "title": "Cámaras",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20C%C3%A1maras",
+   "count": 9,
+   "groups": [
+    {
+     "key": "medida",
+     "title": "Medida",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "tractor",
+   "title": "Neumáticos de tractor",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Neum%C3%A1ticos%20de%20tractor",
+   "count": 6,
+   "groups": [
+    {
+     "key": "medida",
+     "title": "Medida",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "montacarga",
+   "title": "Neumáticos de montacarga",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Neum%C3%A1ticos%20de%20montacarga",
+   "count": 5,
+   "groups": [
+    {
+     "key": "medida",
+     "title": "Medida",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "baterias",
+   "title": "Baterías",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Bater%C3%ADas",
+   "count": 13,
+   "groups": [
+    {
+     "key": "motos",
+     "title": "Motos",
+     "banner": null
+    },
+    {
+     "key": "carros",
+     "title": "Carros",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "llantas",
+   "title": "Llantas",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Llantas",
+   "count": 18,
+   "groups": [
+    {
+     "key": "rin 13",
+     "title": "RIN 13",
+     "banner": null
+    },
+    {
+     "key": "rin 14",
+     "title": "RIN 14",
+     "banner": null
+    },
+    {
+     "key": "rin 15",
+     "title": "RIN 15",
+     "banner": null
+    },
+    {
+     "key": "rin 16",
+     "title": "RIN 16",
+     "banner": null
+    },
+    {
+     "key": "rin 17",
+     "title": "RIN 17",
+     "banner": null
+    },
+    {
+     "key": "rin 18",
+     "title": "RIN 18",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "lubricantes",
+   "title": "Lubricantes",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Lubricantes",
+   "count": 47,
+   "groups": [
+    {
+     "key": "producto",
+     "title": "Producto",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "electrodomesticos",
+   "title": "Electrodomésticos",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Electrodom%C3%A9sticos",
+   "count": 13,
+   "groups": [
+    {
+     "key": "producto",
+     "title": "Producto",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "repuestos",
+   "title": "Repuestos",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Repuestos",
+   "count": 15,
+   "groups": [
+    {
+     "key": "bujías",
+     "title": "Bujías",
+     "banner": null
+    },
+    {
+     "key": "filtros de aceite",
+     "title": "Filtros de aceite",
+     "banner": null
+    },
+    {
+     "key": "bombas de combustible",
+     "title": "Bombas de combustible",
+     "banner": null
+    },
+    {
+     "key": "filtros de combustible y aire",
+     "title": "Filtros de combustible y aire",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "solar",
+   "title": "Energía solar y luminaria",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Energ%C3%ADa%20solar%20y%20luminaria",
+   "count": 12,
+   "groups": [
+    {
+     "key": "paneles",
+     "title": "Paneles",
+     "banner": null
+    },
+    {
+     "key": "reflectores solares (panel solar + kit + control remoto)",
+     "title": "Reflectores solares (panel solar + kit + control remoto)",
+     "banner": null
+    },
+    {
+     "key": "tubos led + lámparas",
+     "title": "Tubos LED + lámparas",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "electricos",
+   "title": "Componentes eléctricos",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Componentes%20el%C3%A9ctricos",
+   "count": 62,
+   "groups": [
+    {
+     "key": "breaker dc 2p",
+     "title": "Breaker DC 2P",
+     "banner": null
+    },
+    {
+     "key": "breaker ac 2p",
+     "title": "Breaker AC 2P",
+     "banner": null
+    },
+    {
+     "key": "breaker ac 1p",
+     "title": "Breaker AC 1P",
+     "banner": null
+    },
+    {
+     "key": "breaker dc 3p",
+     "title": "Breaker DC 3P",
+     "banner": null
+    },
+    {
+     "key": "breaker ac 3p",
+     "title": "Breaker AC 3P",
+     "banner": null
+    },
+    {
+     "key": "brequeras (portabreaker)",
+     "title": "Brequeras (Portabreaker)",
+     "banner": null
+    },
+    {
+     "key": "transfer switch (conmutador)",
+     "title": "Transfer Switch (Conmutador)",
+     "banner": null
+    },
+    {
+     "key": "transfer manual (conmutador)",
+     "title": "Transfer Manual (Conmutador)",
+     "banner": null
+    },
+    {
+     "key": "controladores de línea",
+     "title": "Controladores de línea",
+     "banner": null
+    },
+    {
+     "key": "supresores de picos (spd)",
+     "title": "Supresores de picos (SPD)",
+     "banner": null
+    },
+    {
+     "key": "portafusibles",
+     "title": "Portafusibles",
+     "banner": null
+    },
+    {
+     "key": "contactores magnéticos",
+     "title": "Contactores magnéticos",
+     "banner": null
+    },
+    {
+     "key": "fusibles",
+     "title": "Fusibles",
+     "banner": null
+    },
+    {
+     "key": "presillas para sujetar los paneles",
+     "title": "Presillas para sujetar los paneles",
+     "banner": null
+    },
+    {
+     "key": "conectores",
+     "title": "Conectores",
+     "banner": null
+    },
+    {
+     "key": "cable fotovoltaico",
+     "title": "Cable fotovoltaico",
+     "banner": null
+    },
+    {
+     "key": "cable eléctrico",
+     "title": "Cable eléctrico",
+     "banner": null
+    },
+    {
+     "key": "cargador de baterías",
+     "title": "Cargador de baterías",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "construccion",
+   "title": "Materiales de la construcción",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Materiales%20de%20la%20construcci%C3%B3n",
+   "count": 2,
+   "groups": [
+    {
+     "key": "cemento",
+     "title": "Cemento",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "oficina",
+   "title": "Material de oficina",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Material%20de%20oficina",
+   "count": 1,
+   "groups": [
+    {
+     "key": "papelería",
+     "title": "Papelería",
+     "banner": null
+    }
+   ]
+  },
+  {
+   "id": "ferreteria",
+   "title": "Ferretería",
+   "wa": "https://wa.me/5358863261?text=Estoy%20interesado%20en%20Ferreter%C3%ADa",
+   "count": 1,
+   "groups": [
+    {
+     "key": "herramientas",
+     "title": "Herramientas",
+     "banner": null
+    }
+   ]
+  }
+ ],
+ "products": [
+  {
+   "id": "neumaticos-rin-12-145-70r12",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 12",
+   "name": "145/70R12 · RIN 12",
+   "short": "145/70R12",
+   "img": null,
+   "desc": [
+    "Neumático medida 145/70R12 para rin 12. Es una de las 3 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "145 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "12\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 12",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-12-155-70r12",
+    "neumaticos-rin-12-155r12c",
+    "neumaticos-rin-13-155-70r13",
+    "neumaticos-rin-13-165-70r13"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-12-155-70r12",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 12",
+   "name": "155/70R12 · RIN 12",
+   "short": "155/70R12",
+   "img": null,
+   "desc": [
+    "Neumático medida 155/70R12 para rin 12. Es una de las 3 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "155 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "12\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 12",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-12-155r12c",
+    "neumaticos-rin-13-155-70r13",
+    "neumaticos-rin-13-165-70r13",
+    "neumaticos-rin-13-175-70r13"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-12-155r12c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 12",
+   "name": "155R12C · RIN 12",
+   "short": "155R12C",
+   "img": null,
+   "desc": [
+    "Neumático medida 155R12C para rin 12. Es una de las 3 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "155R12"
+    ],
+    [
+     "Rin",
+     "12\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 12",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-13-155-70r13",
+    "neumaticos-rin-13-165-70r13",
+    "neumaticos-rin-13-175-70r13",
+    "neumaticos-rin-13-185-70r13"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-13-155-70r13",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 13",
+   "name": "155/70R13 · RIN 13",
+   "short": "155/70R13",
+   "img": null,
+   "desc": [
+    "Neumático medida 155/70R13 para rin 13. Es una de las 4 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "155 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "13\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 13",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-13-165-70r13",
+    "neumaticos-rin-13-175-70r13",
+    "neumaticos-rin-13-185-70r13",
+    "neumaticos-rin-14-165-65r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-13-165-70r13",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 13",
+   "name": "165/70R13 · RIN 13",
+   "short": "165/70R13",
+   "img": null,
+   "desc": [
+    "Neumático medida 165/70R13 para rin 13. Es una de las 4 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "165 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "13\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 13",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-13-175-70r13",
+    "neumaticos-rin-13-185-70r13",
+    "neumaticos-rin-14-165-65r14",
+    "neumaticos-rin-14-165-70r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-13-175-70r13",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 13",
+   "name": "175/70R13 · RIN 13",
+   "short": "175/70R13",
+   "img": null,
+   "desc": [
+    "Neumático medida 175/70R13 para rin 13. Es una de las 4 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "175 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "13\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 13",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-13-185-70r13",
+    "neumaticos-rin-14-165-65r14",
+    "neumaticos-rin-14-165-70r14",
+    "neumaticos-rin-14-175-65r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-13-185-70r13",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 13",
+   "name": "185/70R13 · RIN 13",
+   "short": "185/70R13",
+   "img": null,
+   "desc": [
+    "Neumático medida 185/70R13 para rin 13. Es una de las 4 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "185 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "13\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 13",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-165-65r14",
+    "neumaticos-rin-14-165-70r14",
+    "neumaticos-rin-14-175-65r14",
+    "neumaticos-rin-14-175-70r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-165-65r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "165/65R14 · RIN 14",
+   "short": "165/65R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 165/65R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "165 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-165-70r14",
+    "neumaticos-rin-14-175-65r14",
+    "neumaticos-rin-14-175-70r14",
+    "neumaticos-rin-14-185-65r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-165-70r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "165/70R14 · RIN 14",
+   "short": "165/70R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 165/70R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "165 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-175-65r14",
+    "neumaticos-rin-14-175-70r14",
+    "neumaticos-rin-14-185-65r14",
+    "neumaticos-rin-14-185-70r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-175-65r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "175/65R14 · RIN 14",
+   "short": "175/65R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 175/65R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "175 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-175-70r14",
+    "neumaticos-rin-14-185-65r14",
+    "neumaticos-rin-14-185-70r14",
+    "neumaticos-rin-14-185r14c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-175-70r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "175/70R14 · RIN 14",
+   "short": "175/70R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 175/70R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "175 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-185-65r14",
+    "neumaticos-rin-14-185-70r14",
+    "neumaticos-rin-14-185r14c",
+    "neumaticos-rin-14-195-70r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-185-65r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "185/65R14 · RIN 14",
+   "short": "185/65R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 185/65R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "185 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-185-70r14",
+    "neumaticos-rin-14-185r14c",
+    "neumaticos-rin-14-195-70r14",
+    "neumaticos-rin-14-195r14c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-185-70r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "185/70R14 · RIN 14",
+   "short": "185/70R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 185/70R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "185 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-185r14c",
+    "neumaticos-rin-14-195-70r14",
+    "neumaticos-rin-14-195r14c",
+    "neumaticos-rin-14-205-70r14"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-185r14c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "185R14C · RIN 14",
+   "short": "185R14C",
+   "img": null,
+   "desc": [
+    "Neumático medida 185R14C para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "185R14"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-195-70r14",
+    "neumaticos-rin-14-195r14c",
+    "neumaticos-rin-14-205-70r14",
+    "neumaticos-rin-15-185-55r15"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-195-70r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "195/70R14 · RIN 14",
+   "short": "195/70R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 195/70R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "195 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-195r14c",
+    "neumaticos-rin-14-205-70r14",
+    "neumaticos-rin-15-185-55r15",
+    "neumaticos-rin-15-185-60r15"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-195r14c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "195R14C · RIN 14",
+   "short": "195R14C",
+   "img": null,
+   "desc": [
+    "Neumático medida 195R14C para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "195R14"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-14-205-70r14",
+    "neumaticos-rin-15-185-55r15",
+    "neumaticos-rin-15-185-60r15",
+    "neumaticos-rin-15-185-65r15"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-14-205-70r14",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 14",
+   "name": "205/70R14 · RIN 14",
+   "short": "205/70R14",
+   "img": null,
+   "desc": [
+    "Neumático medida 205/70R14 para rin 14. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "205 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "14\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 14",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-185-55r15",
+    "neumaticos-rin-15-185-60r15",
+    "neumaticos-rin-15-185-65r15",
+    "neumaticos-rin-15-195-50r15"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-185-55r15",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "185/55R15 · RIN 15",
+   "short": "185/55R15",
+   "img": null,
+   "desc": [
+    "Neumático medida 185/55R15 para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "185 mm"
+    ],
+    [
+     "Perfil",
+     "55 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-185-60r15",
+    "neumaticos-rin-15-185-65r15",
+    "neumaticos-rin-15-195-50r15",
+    "neumaticos-rin-15-195-60r15"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-185-60r15",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "185/60R15 · RIN 15",
+   "short": "185/60R15",
+   "img": null,
+   "desc": [
+    "Neumático medida 185/60R15 para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "185 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-185-65r15",
+    "neumaticos-rin-15-195-50r15",
+    "neumaticos-rin-15-195-60r15",
+    "neumaticos-rin-15-195-65-15"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-185-65r15",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "185/65R15 · RIN 15",
+   "short": "185/65R15",
+   "img": null,
+   "desc": [
+    "Neumático medida 185/65R15 para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "185 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-195-50r15",
+    "neumaticos-rin-15-195-60r15",
+    "neumaticos-rin-15-195-65-15",
+    "neumaticos-rin-15-195r15-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-195-50r15",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "195/50R15 · RIN 15",
+   "short": "195/50R15",
+   "img": null,
+   "desc": [
+    "Neumático medida 195/50R15 para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "195 mm"
+    ],
+    [
+     "Perfil",
+     "50 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-195-60r15",
+    "neumaticos-rin-15-195-65-15",
+    "neumaticos-rin-15-195r15-c",
+    "neumaticos-rin-15-205-70r15-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-195-60r15",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "195/60R15 · RIN 15",
+   "short": "195/60R15",
+   "img": null,
+   "desc": [
+    "Neumático medida 195/60R15 para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "195 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-195-65-15",
+    "neumaticos-rin-15-195r15-c",
+    "neumaticos-rin-15-205-70r15-c",
+    "neumaticos-rin-15-215-70r15-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-195-65-15",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "195/65/15 · RIN 15",
+   "short": "195/65/15",
+   "img": null,
+   "desc": [
+    "Neumático medida 195/65/15 para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "195 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-195r15-c",
+    "neumaticos-rin-15-205-70r15-c",
+    "neumaticos-rin-15-215-70r15-c",
+    "neumaticos-rin-15-225-70r15-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-195r15-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "195R15 C · RIN 15",
+   "short": "195R15 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 195R15 C para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "195R15"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-205-70r15-c",
+    "neumaticos-rin-15-215-70r15-c",
+    "neumaticos-rin-15-225-70r15-c",
+    "neumaticos-rin-16-195-55-16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-205-70r15-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "205/70R15 C · RIN 15",
+   "short": "205/70R15 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 205/70R15 C para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "205 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-215-70r15-c",
+    "neumaticos-rin-15-225-70r15-c",
+    "neumaticos-rin-16-195-55-16",
+    "neumaticos-rin-16-205-55-16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-215-70r15-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "215/70R15 C · RIN 15",
+   "short": "215/70R15 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 215/70R15 C para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-15-225-70r15-c",
+    "neumaticos-rin-16-195-55-16",
+    "neumaticos-rin-16-205-55-16",
+    "neumaticos-rin-16-205-60-16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-15-225-70r15-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 15",
+   "name": "225/70R15 C · RIN 15",
+   "short": "225/70R15 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 225/70R15 C para rin 15. Es una de las 10 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "15\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 15",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-195-55-16",
+    "neumaticos-rin-16-205-55-16",
+    "neumaticos-rin-16-205-60-16",
+    "neumaticos-rin-16-215-60-16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-195-55-16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "195 55 16 · RIN 16",
+   "short": "195 55 16",
+   "img": null,
+   "desc": [
+    "Neumático medida 195 55 16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "195 mm"
+    ],
+    [
+     "Perfil",
+     "55 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-205-55-16",
+    "neumaticos-rin-16-205-60-16",
+    "neumaticos-rin-16-215-60-16",
+    "neumaticos-rin-16-195-75-16-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-205-55-16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "205 55 16 · RIN 16",
+   "short": "205 55 16",
+   "img": null,
+   "desc": [
+    "Neumático medida 205 55 16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "205 mm"
+    ],
+    [
+     "Perfil",
+     "55 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-205-60-16",
+    "neumaticos-rin-16-215-60-16",
+    "neumaticos-rin-16-195-75-16-c",
+    "neumaticos-rin-16-205-75-16-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-205-60-16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "205 60 16 · RIN 16",
+   "short": "205 60 16",
+   "img": null,
+   "desc": [
+    "Neumático medida 205 60 16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "205 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-215-60-16",
+    "neumaticos-rin-16-195-75-16-c",
+    "neumaticos-rin-16-205-75-16-c",
+    "neumaticos-rin-16-205r-16-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-215-60-16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "215 60 16 · RIN 16",
+   "short": "215 60 16",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 60 16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-195-75-16-c",
+    "neumaticos-rin-16-205-75-16-c",
+    "neumaticos-rin-16-205r-16-c",
+    "neumaticos-rin-16-215-65-16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-195-75-16-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "195 75 16 C · RIN 16",
+   "short": "195 75 16 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 195 75 16 C para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "195 mm"
+    ],
+    [
+     "Perfil",
+     "75 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-205-75-16-c",
+    "neumaticos-rin-16-205r-16-c",
+    "neumaticos-rin-16-215-65-16",
+    "neumaticos-rin-16-215-70-16-lt"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-205-75-16-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "205 75 16 C · RIN 16",
+   "short": "205 75 16 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 205 75 16 C para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "205 mm"
+    ],
+    [
+     "Perfil",
+     "75 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-205r-16-c",
+    "neumaticos-rin-16-215-65-16",
+    "neumaticos-rin-16-215-70-16-lt",
+    "neumaticos-rin-16-215-75-16-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-205r-16-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "205R 16 C · RIN 16",
+   "short": "205R 16 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 205R 16 C para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "205R16"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-215-65-16",
+    "neumaticos-rin-16-215-70-16-lt",
+    "neumaticos-rin-16-215-75-16-c",
+    "neumaticos-rin-16-225-65-16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-215-65-16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "215 65 16 · RIN 16",
+   "short": "215 65 16",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 65 16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-215-70-16-lt",
+    "neumaticos-rin-16-215-75-16-c",
+    "neumaticos-rin-16-225-65-16",
+    "neumaticos-rin-16-225-75-16-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-215-70-16-lt",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "215 70 16 LT · RIN 16",
+   "short": "215 70 16 LT",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 70 16 LT para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Light Truck (LT)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-215-75-16-c",
+    "neumaticos-rin-16-225-65-16",
+    "neumaticos-rin-16-225-75-16-c",
+    "neumaticos-rin-16-235-70-16-at"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-215-75-16-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "215 75 16 C · RIN 16",
+   "short": "215 75 16 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 75 16 C para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "75 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-225-65-16",
+    "neumaticos-rin-16-225-75-16-c",
+    "neumaticos-rin-16-235-70-16-at",
+    "neumaticos-rin-16-245-70-16-c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-225-65-16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "225 65 16 · RIN 16",
+   "short": "225 65 16",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 65 16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-225-75-16-c",
+    "neumaticos-rin-16-235-70-16-at",
+    "neumaticos-rin-16-245-70-16-c",
+    "neumaticos-rin-16-245-75-16-lt"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-225-75-16-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "225 75 16 C · RIN 16",
+   "short": "225 75 16 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 75 16 C para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "75 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-235-70-16-at",
+    "neumaticos-rin-16-245-70-16-c",
+    "neumaticos-rin-16-245-75-16-lt",
+    "neumaticos-rin-16-265-70-16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-235-70-16-at",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "235 70 16 AT · RIN 16",
+   "short": "235 70 16 AT",
+   "img": null,
+   "desc": [
+    "Neumático medida 235 70 16 AT para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "235 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "All Terrain (AT)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-245-70-16-c",
+    "neumaticos-rin-16-245-75-16-lt",
+    "neumaticos-rin-16-265-70-16",
+    "neumaticos-rin-16-700r16"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-245-70-16-c",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "245 70 16 C · RIN 16",
+   "short": "245 70 16 C",
+   "img": null,
+   "desc": [
+    "Neumático medida 245 70 16 C para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Las medidas con código C están pensadas para vehículos comerciales o de carga, donde se necesita mayor capacidad de peso que en un neumático de turismo.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "245 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Uso comercial / carga (código C)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-245-75-16-lt",
+    "neumaticos-rin-16-265-70-16",
+    "neumaticos-rin-16-700r16",
+    "neumaticos-rin-16-750r16-balon"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-245-75-16-lt",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "245 75 16 LT · RIN 16",
+   "short": "245 75 16 LT",
+   "img": null,
+   "desc": [
+    "Neumático medida 245 75 16 LT para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "245 mm"
+    ],
+    [
+     "Perfil",
+     "75 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Light Truck (LT)"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-265-70-16",
+    "neumaticos-rin-16-700r16",
+    "neumaticos-rin-16-750r16-balon",
+    "neumaticos-rin-16-750r16-set"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-265-70-16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "265 70 16 · RIN 16",
+   "short": "265 70 16",
+   "img": null,
+   "desc": [
+    "Neumático medida 265 70 16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "265 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-700r16",
+    "neumaticos-rin-16-750r16-balon",
+    "neumaticos-rin-16-750r16-set",
+    "neumaticos-rin-16-825r-16-set"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-700r16",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "700R16 · RIN 16",
+   "short": "700R16",
+   "img": null,
+   "desc": [
+    "Neumático medida 700R16 para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "700R16"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-750r16-balon",
+    "neumaticos-rin-16-750r16-set",
+    "neumaticos-rin-16-825r-16-set",
+    "neumaticos-rin-17-205-45-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-750r16-balon",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "750R16 (balón) · RIN 16",
+   "short": "750R16 (balón)",
+   "img": null,
+   "desc": [
+    "Neumático medida 750R16 (balón) para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "750R16"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-750r16-set",
+    "neumaticos-rin-16-825r-16-set",
+    "neumaticos-rin-17-205-45-17",
+    "neumaticos-rin-17-205-50-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-750r16-set",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "750R16 SET · RIN 16",
+   "short": "750R16 SET",
+   "img": null,
+   "desc": [
+    "Neumático medida 750R16 SET para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "750R16"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-16-825r-16-set",
+    "neumaticos-rin-17-205-45-17",
+    "neumaticos-rin-17-205-50-17",
+    "neumaticos-rin-17-215-50-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-16-825r-16-set",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 16",
+   "name": "825R 16 SET · RIN 16",
+   "short": "825R 16 SET",
+   "img": null,
+   "desc": [
+    "Neumático medida 825R 16 SET para rin 16. Es una de las 20 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "825R16"
+    ],
+    [
+     "Rin",
+     "16\""
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "RIN 16",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-205-45-17",
+    "neumaticos-rin-17-205-50-17",
+    "neumaticos-rin-17-215-50-17",
+    "neumaticos-rin-17-215-55-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-205-45-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "205 45 17 · RIN 17",
+   "short": "205 45 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 205 45 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "205 mm"
+    ],
+    [
+     "Perfil",
+     "45 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-205-50-17",
+    "neumaticos-rin-17-215-50-17",
+    "neumaticos-rin-17-215-55-17",
+    "neumaticos-rin-17-215-60-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-205-50-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "205 50 17 · RIN 17",
+   "short": "205 50 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 205 50 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "205 mm"
+    ],
+    [
+     "Perfil",
+     "50 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-215-50-17",
+    "neumaticos-rin-17-215-55-17",
+    "neumaticos-rin-17-215-60-17",
+    "neumaticos-rin-17-225-45-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-215-50-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "215 50 17 · RIN 17",
+   "short": "215 50 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 50 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "50 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-215-55-17",
+    "neumaticos-rin-17-215-60-17",
+    "neumaticos-rin-17-225-45-17",
+    "neumaticos-rin-17-225-55-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-215-55-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "215 55 17 · RIN 17",
+   "short": "215 55 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 55 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "55 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-215-60-17",
+    "neumaticos-rin-17-225-45-17",
+    "neumaticos-rin-17-225-55-17",
+    "neumaticos-rin-17-225-60-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-215-60-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "215 60 17 · RIN 17",
+   "short": "215 60 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 60 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-225-45-17",
+    "neumaticos-rin-17-225-55-17",
+    "neumaticos-rin-17-225-60-17",
+    "neumaticos-rin-17-225-65-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-225-45-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "225 45 17 · RIN 17",
+   "short": "225 45 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 45 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "45 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-225-55-17",
+    "neumaticos-rin-17-225-60-17",
+    "neumaticos-rin-17-225-65-17",
+    "neumaticos-rin-17-235-55-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-225-55-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "225 55 17 · RIN 17",
+   "short": "225 55 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 55 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "55 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-225-60-17",
+    "neumaticos-rin-17-225-65-17",
+    "neumaticos-rin-17-235-55-17",
+    "neumaticos-rin-17-235-65-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-225-60-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "225 60 17 · RIN 17",
+   "short": "225 60 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 60 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-225-65-17",
+    "neumaticos-rin-17-235-55-17",
+    "neumaticos-rin-17-235-65-17",
+    "neumaticos-rin-17-245-65-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-225-65-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "225 65 17 · RIN 17",
+   "short": "225 65 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 65 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-235-55-17",
+    "neumaticos-rin-17-235-65-17",
+    "neumaticos-rin-17-245-65-17",
+    "neumaticos-rin-17-265-65-17"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-235-55-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "235 55 17 · RIN 17",
+   "short": "235 55 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 235 55 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "235 mm"
+    ],
+    [
+     "Perfil",
+     "55 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-235-65-17",
+    "neumaticos-rin-17-245-65-17",
+    "neumaticos-rin-17-265-65-17",
+    "neumaticos-rin-17-5-215-75-17-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-235-65-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "235 65 17 · RIN 17",
+   "short": "235 65 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 235 65 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "235 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-245-65-17",
+    "neumaticos-rin-17-265-65-17",
+    "neumaticos-rin-17-5-215-75-17-5",
+    "neumaticos-rin-17-5-235-75-17-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-245-65-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "245 65 17 · RIN 17",
+   "short": "245 65 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 245 65 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "245 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-265-65-17",
+    "neumaticos-rin-17-5-215-75-17-5",
+    "neumaticos-rin-17-5-235-75-17-5",
+    "neumaticos-rin-18-225-45-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-265-65-17",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17",
+   "name": "265 65 17 · RIN 17",
+   "short": "265 65 17",
+   "img": null,
+   "desc": [
+    "Neumático medida 265 65 17 para rin 17. Es una de las 13 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "265 mm"
+    ],
+    [
+     "Perfil",
+     "65 %"
+    ],
+    [
+     "Rin",
+     "17\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-5-215-75-17-5",
+    "neumaticos-rin-17-5-235-75-17-5",
+    "neumaticos-rin-18-225-45-18",
+    "neumaticos-rin-18-235-45-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-5-215-75-17-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17.5",
+   "name": "215 75 17.5 · RIN 17.5",
+   "short": "215 75 17.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 215 75 17.5 para rin 17.5. Es una de las 2 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "215 mm"
+    ],
+    [
+     "Perfil",
+     "75 %"
+    ],
+    [
+     "Rin",
+     "17.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-17-5-235-75-17-5",
+    "neumaticos-rin-18-225-45-18",
+    "neumaticos-rin-18-235-45-18",
+    "neumaticos-rin-18-225-55-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-17-5-235-75-17-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 17.5",
+   "name": "235 75 17.5 · RIN 17.5",
+   "short": "235 75 17.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 235 75 17.5 para rin 17.5. Es una de las 2 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "235 mm"
+    ],
+    [
+     "Perfil",
+     "75 %"
+    ],
+    [
+     "Rin",
+     "17.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 17.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-225-45-18",
+    "neumaticos-rin-18-235-45-18",
+    "neumaticos-rin-18-225-55-18",
+    "neumaticos-rin-18-225-60-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-225-45-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "225 45 18 · RIN 18",
+   "short": "225 45 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 45 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "45 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-235-45-18",
+    "neumaticos-rin-18-225-55-18",
+    "neumaticos-rin-18-225-60-18",
+    "neumaticos-rin-18-235-60-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-235-45-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "235 45 18 · RIN 18",
+   "short": "235 45 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 235 45 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "235 mm"
+    ],
+    [
+     "Perfil",
+     "45 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-225-55-18",
+    "neumaticos-rin-18-225-60-18",
+    "neumaticos-rin-18-235-60-18",
+    "neumaticos-rin-18-245-50-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-225-55-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "225 55 18 · RIN 18",
+   "short": "225 55 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 55 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "55 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-225-60-18",
+    "neumaticos-rin-18-235-60-18",
+    "neumaticos-rin-18-245-50-18",
+    "neumaticos-rin-18-245-60-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-225-60-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "225 60 18 · RIN 18",
+   "short": "225 60 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 225 60 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "225 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-235-60-18",
+    "neumaticos-rin-18-245-50-18",
+    "neumaticos-rin-18-245-60-18",
+    "neumaticos-rin-18-255-60-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-235-60-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "235 60 18 · RIN 18",
+   "short": "235 60 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 235 60 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "235 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-245-50-18",
+    "neumaticos-rin-18-245-60-18",
+    "neumaticos-rin-18-255-60-18",
+    "neumaticos-rin-18-265-60-18"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-245-50-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "245 50 18 · RIN 18",
+   "short": "245 50 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 245 50 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "245 mm"
+    ],
+    [
+     "Perfil",
+     "50 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-245-60-18",
+    "neumaticos-rin-18-255-60-18",
+    "neumaticos-rin-18-265-60-18",
+    "neumaticos-rin-19-235-50-19"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-245-60-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "245 60 18 · RIN 18",
+   "short": "245 60 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 245 60 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "245 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-255-60-18",
+    "neumaticos-rin-18-265-60-18",
+    "neumaticos-rin-19-235-50-19",
+    "neumaticos-rin-19-5-245-70-19-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-255-60-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "255 60 18 · RIN 18",
+   "short": "255 60 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 255 60 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "255 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-18-265-60-18",
+    "neumaticos-rin-19-235-50-19",
+    "neumaticos-rin-19-5-245-70-19-5",
+    "neumaticos-rin-20-245-50-20"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-18-265-60-18",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 18",
+   "name": "265 60 18 · RIN 18",
+   "short": "265 60 18",
+   "img": null,
+   "desc": [
+    "Neumático medida 265 60 18 para rin 18. Es una de las 9 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "265 mm"
+    ],
+    [
+     "Perfil",
+     "60 %"
+    ],
+    [
+     "Rin",
+     "18\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 18",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-19-235-50-19",
+    "neumaticos-rin-19-5-245-70-19-5",
+    "neumaticos-rin-20-245-50-20",
+    "neumaticos-rin-20-265-50-20"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-19-235-50-19",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 19",
+   "name": "235 50 19 · RIN 19",
+   "short": "235 50 19",
+   "img": null,
+   "desc": [
+    "Neumático medida 235 50 19 para rin 19. Es una de las 1 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "235 mm"
+    ],
+    [
+     "Perfil",
+     "50 %"
+    ],
+    [
+     "Rin",
+     "19\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 19",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-19-5-245-70-19-5",
+    "neumaticos-rin-20-245-50-20",
+    "neumaticos-rin-20-265-50-20",
+    "neumaticos-rin-20-825r-20-set"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-19-5-245-70-19-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 19.5",
+   "name": "245 70 19.5 · RIN 19.5",
+   "short": "245 70 19.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 245 70 19.5 para rin 19.5. Es una de las 1 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "245 mm"
+    ],
+    [
+     "Perfil",
+     "70 %"
+    ],
+    [
+     "Rin",
+     "19.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 19.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-20-245-50-20",
+    "neumaticos-rin-20-265-50-20",
+    "neumaticos-rin-20-825r-20-set",
+    "neumaticos-rin-20-900r-20-set"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-20-245-50-20",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 20",
+   "name": "245 50 20 · RIN 20",
+   "short": "245 50 20",
+   "img": null,
+   "desc": [
+    "Neumático medida 245 50 20 para rin 20. Es una de las 7 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "245 mm"
+    ],
+    [
+     "Perfil",
+     "50 %"
+    ],
+    [
+     "Rin",
+     "20\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 20",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-20-265-50-20",
+    "neumaticos-rin-20-825r-20-set",
+    "neumaticos-rin-20-900r-20-set",
+    "neumaticos-rin-20-1000r-20-set"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-20-265-50-20",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 20",
+   "name": "265 50 20 · RIN 20",
+   "short": "265 50 20",
+   "img": null,
+   "desc": [
+    "Neumático medida 265 50 20 para rin 20. Es una de las 7 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "265 mm"
+    ],
+    [
+     "Perfil",
+     "50 %"
+    ],
+    [
+     "Rin",
+     "20\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 20",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-20-825r-20-set",
+    "neumaticos-rin-20-900r-20-set",
+    "neumaticos-rin-20-1000r-20-set",
+    "neumaticos-rin-20-11000r-20-set"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-20-825r-20-set",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 20",
+   "name": "825R 20 SET · RIN 20",
+   "short": "825R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático medida 825R 20 SET para rin 20. Es una de las 7 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "825R20"
+    ],
+    [
+     "Rin",
+     "20\""
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "RIN 20",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-20-900r-20-set",
+    "neumaticos-rin-20-1000r-20-set",
+    "neumaticos-rin-20-11000r-20-set",
+    "neumaticos-rin-20-12000r-20-set"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-20-900r-20-set",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 20",
+   "name": "900R 20 SET · RIN 20",
+   "short": "900R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático medida 900R 20 SET para rin 20. Es una de las 7 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "900R20"
+    ],
+    [
+     "Rin",
+     "20\""
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "RIN 20",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-20-1000r-20-set",
+    "neumaticos-rin-20-11000r-20-set",
+    "neumaticos-rin-20-12000r-20-set",
+    "neumaticos-rin-22-265-40-22"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-20-1000r-20-set",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 20",
+   "name": "1000R 20 SET · RIN 20",
+   "short": "1000R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático medida 1000R 20 SET para rin 20. Es una de las 7 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "1000R20"
+    ],
+    [
+     "Rin",
+     "20\""
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "RIN 20",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-20-11000r-20-set",
+    "neumaticos-rin-20-12000r-20-set",
+    "neumaticos-rin-22-265-40-22",
+    "neumaticos-rin-22-5-900r-22-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-20-11000r-20-set",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 20",
+   "name": "11000R 20 SET · RIN 20",
+   "short": "11000R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático medida 11000R 20 SET para rin 20. Es una de las 7 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "11000R20"
+    ],
+    [
+     "Rin",
+     "20\""
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "RIN 20",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-20-12000r-20-set",
+    "neumaticos-rin-22-265-40-22",
+    "neumaticos-rin-22-5-900r-22-5",
+    "neumaticos-rin-22-5-11r-22-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-20-12000r-20-set",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 20",
+   "name": "12000R 20 SET · RIN 20",
+   "short": "12000R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático medida 12000R 20 SET para rin 20. Es una de las 7 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "12000R20"
+    ],
+    [
+     "Rin",
+     "20\""
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "RIN 20",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-22-265-40-22",
+    "neumaticos-rin-22-5-900r-22-5",
+    "neumaticos-rin-22-5-11r-22-5",
+    "neumaticos-rin-22-5-12r22-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-22-265-40-22",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 22",
+   "name": "265 40 22 · RIN 22",
+   "short": "265 40 22",
+   "img": null,
+   "desc": [
+    "Neumático medida 265 40 22 para rin 22. Es una de las 1 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "265 mm"
+    ],
+    [
+     "Perfil",
+     "40 %"
+    ],
+    [
+     "Rin",
+     "22\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 22",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-22-5-900r-22-5",
+    "neumaticos-rin-22-5-11r-22-5",
+    "neumaticos-rin-22-5-12r22-5",
+    "neumaticos-rin-22-5-295-80-22-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-22-5-900r-22-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 22.5",
+   "name": "900R 22.5 · RIN 22.5",
+   "short": "900R 22.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 900R 22.5 para rin 22.5. Es una de las 5 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Medida",
+     "900R22.5"
+    ],
+    [
+     "Rin",
+     "22.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 22.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-22-5-11r-22-5",
+    "neumaticos-rin-22-5-12r22-5",
+    "neumaticos-rin-22-5-295-80-22-5",
+    "neumaticos-rin-22-5-315-80-22-5"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-22-5-11r-22-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 22.5",
+   "name": "11R 22.5 · RIN 22.5",
+   "short": "11R 22.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 11R 22.5 para rin 22.5. Es una de las 5 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Rin",
+     "22.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 22.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-22-5-12r22-5",
+    "neumaticos-rin-22-5-295-80-22-5",
+    "neumaticos-rin-22-5-315-80-22-5",
+    "neumaticos-rin-12-145-70r12"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-22-5-12r22-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 22.5",
+   "name": "12R22.5 · RIN 22.5",
+   "short": "12R22.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 12R22.5 para rin 22.5. Es una de las 5 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Rin",
+     "22.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 22.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-22-5-295-80-22-5",
+    "neumaticos-rin-22-5-315-80-22-5",
+    "neumaticos-rin-12-145-70r12",
+    "neumaticos-rin-12-155-70r12"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-22-5-295-80-22-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 22.5",
+   "name": "295 80 22.5 · RIN 22.5",
+   "short": "295 80 22.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 295 80 22.5 para rin 22.5. Es una de las 5 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "295 mm"
+    ],
+    [
+     "Perfil",
+     "80 %"
+    ],
+    [
+     "Rin",
+     "22.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 22.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-22-5-315-80-22-5",
+    "neumaticos-rin-12-145-70r12",
+    "neumaticos-rin-12-155-70r12",
+    "neumaticos-rin-12-155r12c"
+   ]
+  },
+  {
+   "id": "neumaticos-rin-22-5-315-80-22-5",
+   "cat": "neumaticos",
+   "catTitle": "Neumáticos",
+   "group": "RIN 22.5",
+   "name": "315 80 22.5 · RIN 22.5",
+   "short": "315 80 22.5",
+   "img": null,
+   "desc": [
+    "Neumático medida 315 80 22.5 para rin 22.5. Es una de las 5 medidas que manejamos en esta categoría de rin, con atención directa por WhatsApp.",
+    "Verifica la medida impresa en el costado de tu neumático actual (por ejemplo 185/65 R14) y compárala con esta ficha antes de pedir.",
+    "Si no estás seguro de la medida que lleva tu vehículo, escríbenos con la marca y el año del vehículo y te ayudamos a confirmarla."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático para vehículo"
+    ],
+    [
+     "Ancho de sección",
+     "315 mm"
+    ],
+    [
+     "Perfil",
+     "80 %"
+    ],
+    [
+     "Rin",
+     "22.5\""
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "RIN 22.5",
+    "cubierta",
+    "goma",
+    "neumatico"
+   ],
+   "related": [
+    "neumaticos-rin-12-145-70r12",
+    "neumaticos-rin-12-155-70r12",
+    "neumaticos-rin-12-155r12c",
+    "neumaticos-rin-13-155-70r13"
+   ]
+  },
+  {
+   "id": "motos-300r10",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "300R10 · Medida",
+   "short": "300R10",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 300R10. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "300R10"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-350r10",
+    "motos-130-70-12",
+    "motos-120-90-10",
+    "motos-350r12"
+   ]
+  },
+  {
+   "id": "motos-350r10",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "350R10 · Medida",
+   "short": "350R10",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 350R10. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "350R10"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-130-70-12",
+    "motos-120-90-10",
+    "motos-350r12",
+    "motos-375r12"
+   ]
+  },
+  {
+   "id": "motos-130-70-12",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "130 70 12 · Medida",
+   "short": "130 70 12",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 130 70 12. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "130 70 12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-120-90-10",
+    "motos-350r12",
+    "motos-375r12",
+    "motos-400r12"
+   ]
+  },
+  {
+   "id": "motos-120-90-10",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "120 90 10 · Medida",
+   "short": "120 90 10",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 120 90 10. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "120 90 10"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-350r12",
+    "motos-375r12",
+    "motos-400r12",
+    "motos-450r12"
+   ]
+  },
+  {
+   "id": "motos-350r12",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "350R12 · Medida",
+   "short": "350R12",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 350R12. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "350R12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-375r12",
+    "motos-400r12",
+    "motos-450r12",
+    "motos-130-60-13"
+   ]
+  },
+  {
+   "id": "motos-375r12",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "375R12 · Medida",
+   "short": "375R12",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 375R12. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "375R12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-400r12",
+    "motos-450r12",
+    "motos-130-60-13",
+    "motos-90-90-14"
+   ]
+  },
+  {
+   "id": "motos-400r12",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "400R12 · Medida",
+   "short": "400R12",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 400R12. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "400R12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-450r12",
+    "motos-130-60-13",
+    "motos-90-90-14",
+    "motos-130-90-10"
+   ]
+  },
+  {
+   "id": "motos-450r12",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "450R12 · Medida",
+   "short": "450R12",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 450R12. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "450R12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-130-60-13",
+    "motos-90-90-14",
+    "motos-130-90-10",
+    "motos-120-70-12"
+   ]
+  },
+  {
+   "id": "motos-130-60-13",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "130 60 13 · Medida",
+   "short": "130 60 13",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 130 60 13. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "130 60 13"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-90-90-14",
+    "motos-130-90-10",
+    "motos-120-70-12",
+    "motos-110-90-16"
+   ]
+  },
+  {
+   "id": "motos-90-90-14",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "90/90/14 · Medida",
+   "short": "90/90/14",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 90/90/14. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "90/90/14"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-130-90-10",
+    "motos-120-70-12",
+    "motos-110-90-16",
+    "motos-17x250"
+   ]
+  },
+  {
+   "id": "motos-130-90-10",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "130 90 10 · Medida",
+   "short": "130 90 10",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 130 90 10. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "130 90 10"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-120-70-12",
+    "motos-110-90-16",
+    "motos-17x250",
+    "motos-17x275"
+   ]
+  },
+  {
+   "id": "motos-120-70-12",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "120 70 12 · Medida",
+   "short": "120 70 12",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 120 70 12. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "120 70 12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-110-90-16",
+    "motos-17x250",
+    "motos-17x275",
+    "motos-17x300"
+   ]
+  },
+  {
+   "id": "motos-110-90-16",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "110 90 16 · Medida",
+   "short": "110 90 16",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 110 90 16. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "110 90 16"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-17x250",
+    "motos-17x275",
+    "motos-17x300",
+    "motos-16x250"
+   ]
+  },
+  {
+   "id": "motos-17x250",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "17x250 · Medida",
+   "short": "17x250",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 17x250. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "17x250"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-17x275",
+    "motos-17x300",
+    "motos-16x250",
+    "motos-16x275"
+   ]
+  },
+  {
+   "id": "motos-17x275",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "17x275 · Medida",
+   "short": "17x275",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 17x275. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "17x275"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-17x300",
+    "motos-16x250",
+    "motos-16x275",
+    "motos-16x300"
+   ]
+  },
+  {
+   "id": "motos-17x300",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "17x300 · Medida",
+   "short": "17x300",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 17x300. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "17x300"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-16x250",
+    "motos-16x275",
+    "motos-16x300",
+    "motos-16x325"
+   ]
+  },
+  {
+   "id": "motos-16x250",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "16x250 · Medida",
+   "short": "16x250",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 16x250. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "16x250"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-16x275",
+    "motos-16x300",
+    "motos-16x325",
+    "motos-16x350"
+   ]
+  },
+  {
+   "id": "motos-16x275",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "16x275 · Medida",
+   "short": "16x275",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 16x275. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "16x275"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-16x300",
+    "motos-16x325",
+    "motos-16x350",
+    "motos-18x250"
+   ]
+  },
+  {
+   "id": "motos-16x300",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "16x300 · Medida",
+   "short": "16x300",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 16x300. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "16x300"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-16x325",
+    "motos-16x350",
+    "motos-18x250",
+    "motos-18x275"
+   ]
+  },
+  {
+   "id": "motos-16x325",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "16x325 · Medida",
+   "short": "16x325",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 16x325. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "16x325"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-16x350",
+    "motos-18x250",
+    "motos-18x275",
+    "motos-18x300"
+   ]
+  },
+  {
+   "id": "motos-16x350",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "16x350 · Medida",
+   "short": "16x350",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 16x350. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "16x350"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-18x250",
+    "motos-18x275",
+    "motos-18x300",
+    "motos-18x325"
+   ]
+  },
+  {
+   "id": "motos-18x250",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "18x250 · Medida",
+   "short": "18x250",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 18x250. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "18x250"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-18x275",
+    "motos-18x300",
+    "motos-18x325",
+    "motos-18x350"
+   ]
+  },
+  {
+   "id": "motos-18x275",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "18x275 · Medida",
+   "short": "18x275",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 18x275. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "18x275"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-18x300",
+    "motos-18x325",
+    "motos-18x350",
+    "motos-300r10"
+   ]
+  },
+  {
+   "id": "motos-18x300",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "18x300 · Medida",
+   "short": "18x300",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 18x300. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "18x300"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-18x325",
+    "motos-18x350",
+    "motos-300r10",
+    "motos-350r10"
+   ]
+  },
+  {
+   "id": "motos-18x325",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "18x325 · Medida",
+   "short": "18x325",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 18x325. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "18x325"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-18x350",
+    "motos-300r10",
+    "motos-350r10",
+    "motos-130-70-12"
+   ]
+  },
+  {
+   "id": "motos-18x350",
+   "cat": "motos",
+   "catTitle": "Neumáticos de motos",
+   "group": "Medida",
+   "name": "18x350 · Medida",
+   "short": "18x350",
+   "img": null,
+   "desc": [
+    "Neumático para moto, medida 18x350. Pensado para reposición en motos y motorinas del mercado local.",
+    "Antes de comprar, revisa la medida en el costado de tu neumático actual (ancho, perfil y rin) y confírmanos por WhatsApp para evitar errores."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de moto"
+    ],
+    [
+     "Medida",
+     "18x350"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "moto",
+    "motorina",
+    "neumatico"
+   ],
+   "related": [
+    "motos-300r10",
+    "motos-350r10",
+    "motos-130-70-12",
+    "motos-120-90-10"
+   ]
+  },
+  {
+   "id": "camiones-700r-16-balon",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "700R 16 (Balon) · Medida",
+   "short": "700R 16 (Balon)",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 700R 16 (Balon), para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "700R 16 (Balon)"
+    ]
+   ],
+   "highlights": [
+    "Tipo balón"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-750r-16-balon",
+    "camiones-750r-16-set",
+    "camiones-825r-16-set",
+    "camiones-215-75-17-5"
+   ]
+  },
+  {
+   "id": "camiones-750r-16-balon",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "750R 16 (Balon) · Medida",
+   "short": "750R 16 (Balon)",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 750R 16 (Balon), para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "750R 16 (Balon)"
+    ]
+   ],
+   "highlights": [
+    "Tipo balón"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-750r-16-set",
+    "camiones-825r-16-set",
+    "camiones-215-75-17-5",
+    "camiones-235-75-17-5"
+   ]
+  },
+  {
+   "id": "camiones-750r-16-set",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "750R 16 SET · Medida",
+   "short": "750R 16 SET",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 750R 16 SET, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "750R 16 SET"
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-825r-16-set",
+    "camiones-215-75-17-5",
+    "camiones-235-75-17-5",
+    "camiones-245-70-19-5"
+   ]
+  },
+  {
+   "id": "camiones-825r-16-set",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "825R 16 SET · Medida",
+   "short": "825R 16 SET",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 825R 16 SET, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "825R 16 SET"
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-215-75-17-5",
+    "camiones-235-75-17-5",
+    "camiones-245-70-19-5",
+    "camiones-825r-20-set"
+   ]
+  },
+  {
+   "id": "camiones-215-75-17-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "215 75 17.5 · Medida",
+   "short": "215 75 17.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 215 75 17.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "215 75 17.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-235-75-17-5",
+    "camiones-245-70-19-5",
+    "camiones-825r-20-set",
+    "camiones-900r-20-set"
+   ]
+  },
+  {
+   "id": "camiones-235-75-17-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "235 75 17.5 · Medida",
+   "short": "235 75 17.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 235 75 17.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "235 75 17.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-245-70-19-5",
+    "camiones-825r-20-set",
+    "camiones-900r-20-set",
+    "camiones-1000r-20-set"
+   ]
+  },
+  {
+   "id": "camiones-245-70-19-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "245 70 19.5 · Medida",
+   "short": "245 70 19.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 245 70 19.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "245 70 19.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-825r-20-set",
+    "camiones-900r-20-set",
+    "camiones-1000r-20-set",
+    "camiones-11000r-20-set"
+   ]
+  },
+  {
+   "id": "camiones-825r-20-set",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "825R 20 SET · Medida",
+   "short": "825R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 825R 20 SET, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "825R 20 SET"
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-900r-20-set",
+    "camiones-1000r-20-set",
+    "camiones-11000r-20-set",
+    "camiones-12000r-20-set"
+   ]
+  },
+  {
+   "id": "camiones-900r-20-set",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "900R 20 SET · Medida",
+   "short": "900R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 900R 20 SET, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "900R 20 SET"
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-1000r-20-set",
+    "camiones-11000r-20-set",
+    "camiones-12000r-20-set",
+    "camiones-900r-22-5"
+   ]
+  },
+  {
+   "id": "camiones-1000r-20-set",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "1000R 20 SET · Medida",
+   "short": "1000R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 1000R 20 SET, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "1000R 20 SET"
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-11000r-20-set",
+    "camiones-12000r-20-set",
+    "camiones-900r-22-5",
+    "camiones-11r-22-5"
+   ]
+  },
+  {
+   "id": "camiones-11000r-20-set",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "11000R 20 SET · Medida",
+   "short": "11000R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 11000R 20 SET, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "11000R 20 SET"
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-12000r-20-set",
+    "camiones-900r-22-5",
+    "camiones-11r-22-5",
+    "camiones-295-80-22-5"
+   ]
+  },
+  {
+   "id": "camiones-12000r-20-set",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "12000R 20 SET · Medida",
+   "short": "12000R 20 SET",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 12000R 20 SET, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "12000R 20 SET"
+    ]
+   ],
+   "highlights": [
+    "Presentación SET"
+   ],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-900r-22-5",
+    "camiones-11r-22-5",
+    "camiones-295-80-22-5",
+    "camiones-12r-22-5"
+   ]
+  },
+  {
+   "id": "camiones-900r-22-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "900R 22.5 · Medida",
+   "short": "900R 22.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 900R 22.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "900R 22.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-11r-22-5",
+    "camiones-295-80-22-5",
+    "camiones-12r-22-5",
+    "camiones-315-80-22-5"
+   ]
+  },
+  {
+   "id": "camiones-11r-22-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "11R 22.5 · Medida",
+   "short": "11R 22.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 11R 22.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "11R 22.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-295-80-22-5",
+    "camiones-12r-22-5",
+    "camiones-315-80-22-5",
+    "camiones-700r-16-balon"
+   ]
+  },
+  {
+   "id": "camiones-295-80-22-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "295 80 22.5 · Medida",
+   "short": "295 80 22.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 295 80 22.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "295 80 22.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-12r-22-5",
+    "camiones-315-80-22-5",
+    "camiones-700r-16-balon",
+    "camiones-750r-16-balon"
+   ]
+  },
+  {
+   "id": "camiones-12r-22-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "12R 22.5 · Medida",
+   "short": "12R 22.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 12R 22.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "12R 22.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-315-80-22-5",
+    "camiones-700r-16-balon",
+    "camiones-750r-16-balon",
+    "camiones-750r-16-set"
+   ]
+  },
+  {
+   "id": "camiones-315-80-22-5",
+   "cat": "camiones",
+   "catTitle": "Neumáticos de camiones",
+   "group": "Medida",
+   "name": "315 80 22.5 · Medida",
+   "short": "315 80 22.5",
+   "img": null,
+   "desc": [
+    "Neumático de carga medida 315 80 22.5, para camiones, camionetas pesadas y vehículos de trabajo.",
+    "La presentación SET suele incluir los componentes para el montaje; consulta por WhatsApp exactamente qué incluye cada medida."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de camión / carga"
+    ],
+    [
+     "Medida",
+     "315 80 22.5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camion",
+    "carga",
+    "neumatico"
+   ],
+   "related": [
+    "camiones-700r-16-balon",
+    "camiones-750r-16-balon",
+    "camiones-750r-16-set",
+    "camiones-825r-16-set"
+   ]
+  },
+  {
+   "id": "camaras-16x325",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 16x325",
+   "short": "16x325",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 16x325. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "16x325"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-16x350",
+    "camaras-17x275",
+    "camaras-17x300",
+    "camaras-18x250"
+   ]
+  },
+  {
+   "id": "camaras-16x350",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 16x350",
+   "short": "16x350",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 16x350. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "16x350"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-17x275",
+    "camaras-17x300",
+    "camaras-18x250",
+    "camaras-18x275"
+   ]
+  },
+  {
+   "id": "camaras-17x275",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 17x275",
+   "short": "17x275",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 17x275. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "17x275"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-17x300",
+    "camaras-18x250",
+    "camaras-18x275",
+    "camaras-18x300"
+   ]
+  },
+  {
+   "id": "camaras-17x300",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 17x300",
+   "short": "17x300",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 17x300. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "17x300"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-18x250",
+    "camaras-18x275",
+    "camaras-18x300",
+    "camaras-18x325"
+   ]
+  },
+  {
+   "id": "camaras-18x250",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 18x250",
+   "short": "18x250",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 18x250. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "18x250"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-18x275",
+    "camaras-18x300",
+    "camaras-18x325",
+    "camaras-18x350"
+   ]
+  },
+  {
+   "id": "camaras-18x275",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 18x275",
+   "short": "18x275",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 18x275. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "18x275"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-18x300",
+    "camaras-18x325",
+    "camaras-18x350",
+    "camaras-16x325"
+   ]
+  },
+  {
+   "id": "camaras-18x300",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 18x300",
+   "short": "18x300",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 18x300. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "18x300"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-18x325",
+    "camaras-18x350",
+    "camaras-16x325",
+    "camaras-16x350"
+   ]
+  },
+  {
+   "id": "camaras-18x325",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 18x325",
+   "short": "18x325",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 18x325. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "18x325"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-18x350",
+    "camaras-16x325",
+    "camaras-16x350",
+    "camaras-17x275"
+   ]
+  },
+  {
+   "id": "camaras-18x350",
+   "cat": "camaras",
+   "catTitle": "Cámaras",
+   "group": "Medida",
+   "name": "Cámara 18x350",
+   "short": "18x350",
+   "img": null,
+   "desc": [
+    "Cámara de aire medida 18x350. Se usa dentro del neumático para mantener la presión de aire.",
+    "Verifica la medida impresa en el costado de tu neumático y confírmanos por WhatsApp para asegurar que la cámara corresponde."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cámara de aire"
+    ],
+    [
+     "Medida",
+     "18x350"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "camara",
+    "tubo",
+    "neumatico"
+   ],
+   "related": [
+    "camaras-16x325",
+    "camaras-16x350",
+    "camaras-17x275",
+    "camaras-17x300"
+   ]
+  },
+  {
+   "id": "tractor-15-5-38",
+   "cat": "tractor",
+   "catTitle": "Neumáticos de tractor",
+   "group": "Medida",
+   "name": "15.5-38 · Medida",
+   "short": "15.5-38",
+   "img": null,
+   "desc": [
+    "Neumático agrícola medida 15.5-38, para tractores y maquinaria de campo.",
+    "Indica si es para rueda delantera o trasera y la marca del tractor para confirmar la medida correcta."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático agrícola / tractor"
+    ],
+    [
+     "Medida",
+     "15.5-38"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "agricola",
+    "neumatico",
+    "tractor"
+   ],
+   "related": [
+    "tractor-750-20",
+    "tractor-14-9-28",
+    "tractor-14-9-24",
+    "tractor-13-6-24"
+   ]
+  },
+  {
+   "id": "tractor-750-20",
+   "cat": "tractor",
+   "catTitle": "Neumáticos de tractor",
+   "group": "Medida",
+   "name": "750-20 · Medida",
+   "short": "750-20",
+   "img": null,
+   "desc": [
+    "Neumático agrícola medida 750-20, para tractores y maquinaria de campo.",
+    "Indica si es para rueda delantera o trasera y la marca del tractor para confirmar la medida correcta."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático agrícola / tractor"
+    ],
+    [
+     "Medida",
+     "750-20"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "agricola",
+    "neumatico",
+    "tractor"
+   ],
+   "related": [
+    "tractor-14-9-28",
+    "tractor-14-9-24",
+    "tractor-13-6-24",
+    "tractor-12-4-24"
+   ]
+  },
+  {
+   "id": "tractor-14-9-28",
+   "cat": "tractor",
+   "catTitle": "Neumáticos de tractor",
+   "group": "Medida",
+   "name": "14.9-28 · Medida",
+   "short": "14.9-28",
+   "img": null,
+   "desc": [
+    "Neumático agrícola medida 14.9-28, para tractores y maquinaria de campo.",
+    "Indica si es para rueda delantera o trasera y la marca del tractor para confirmar la medida correcta."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático agrícola / tractor"
+    ],
+    [
+     "Medida",
+     "14.9-28"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "agricola",
+    "neumatico",
+    "tractor"
+   ],
+   "related": [
+    "tractor-14-9-24",
+    "tractor-13-6-24",
+    "tractor-12-4-24",
+    "tractor-15-5-38"
+   ]
+  },
+  {
+   "id": "tractor-14-9-24",
+   "cat": "tractor",
+   "catTitle": "Neumáticos de tractor",
+   "group": "Medida",
+   "name": "14.9-24 · Medida",
+   "short": "14.9-24",
+   "img": null,
+   "desc": [
+    "Neumático agrícola medida 14.9-24, para tractores y maquinaria de campo.",
+    "Indica si es para rueda delantera o trasera y la marca del tractor para confirmar la medida correcta."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático agrícola / tractor"
+    ],
+    [
+     "Medida",
+     "14.9-24"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "agricola",
+    "neumatico",
+    "tractor"
+   ],
+   "related": [
+    "tractor-13-6-24",
+    "tractor-12-4-24",
+    "tractor-15-5-38",
+    "tractor-750-20"
+   ]
+  },
+  {
+   "id": "tractor-13-6-24",
+   "cat": "tractor",
+   "catTitle": "Neumáticos de tractor",
+   "group": "Medida",
+   "name": "13.6-24 · Medida",
+   "short": "13.6-24",
+   "img": null,
+   "desc": [
+    "Neumático agrícola medida 13.6-24, para tractores y maquinaria de campo.",
+    "Indica si es para rueda delantera o trasera y la marca del tractor para confirmar la medida correcta."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático agrícola / tractor"
+    ],
+    [
+     "Medida",
+     "13.6-24"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "agricola",
+    "neumatico",
+    "tractor"
+   ],
+   "related": [
+    "tractor-12-4-24",
+    "tractor-15-5-38",
+    "tractor-750-20",
+    "tractor-14-9-28"
+   ]
+  },
+  {
+   "id": "tractor-12-4-24",
+   "cat": "tractor",
+   "catTitle": "Neumáticos de tractor",
+   "group": "Medida",
+   "name": "12.4-24 · Medida",
+   "short": "12.4-24",
+   "img": null,
+   "desc": [
+    "Neumático agrícola medida 12.4-24, para tractores y maquinaria de campo.",
+    "Indica si es para rueda delantera o trasera y la marca del tractor para confirmar la medida correcta."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático agrícola / tractor"
+    ],
+    [
+     "Medida",
+     "12.4-24"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "agricola",
+    "neumatico",
+    "tractor"
+   ],
+   "related": [
+    "tractor-15-5-38",
+    "tractor-750-20",
+    "tractor-14-9-28",
+    "tractor-14-9-24"
+   ]
+  },
+  {
+   "id": "montacarga-8-25-15",
+   "cat": "montacarga",
+   "catTitle": "Neumáticos de montacarga",
+   "group": "Medida",
+   "name": "8.25-15 · Medida",
+   "short": "8.25-15",
+   "img": null,
+   "desc": [
+    "Neumático de montacargas medida 8.25-15, para equipos de almacén y logística.",
+    "Confirma la medida con la placa o el neumático actual de tu montacargas antes de pedir."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de montacarga"
+    ],
+    [
+     "Medida",
+     "8.25-15"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "almacen",
+    "montacarga",
+    "neumatico"
+   ],
+   "related": [
+    "montacarga-29x9-15-es-8-15-15",
+    "montacarga-7-00-12",
+    "montacarga-6-50-10",
+    "montacarga-6-00-9"
+   ]
+  },
+  {
+   "id": "montacarga-29x9-15-es-8-15-15",
+   "cat": "montacarga",
+   "catTitle": "Neumáticos de montacarga",
+   "group": "Medida",
+   "name": "29x9-15 (es 8.15-15 ) · Medida",
+   "short": "29x9-15 (es 8.15-15 )",
+   "img": null,
+   "desc": [
+    "Neumático de montacargas medida 29x9-15 (es 8.15-15 ), para equipos de almacén y logística.",
+    "Confirma la medida con la placa o el neumático actual de tu montacargas antes de pedir."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de montacarga"
+    ],
+    [
+     "Medida",
+     "29x9-15 (es 8.15-15 )"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "almacen",
+    "montacarga",
+    "neumatico"
+   ],
+   "related": [
+    "montacarga-7-00-12",
+    "montacarga-6-50-10",
+    "montacarga-6-00-9",
+    "montacarga-8-25-15"
+   ]
+  },
+  {
+   "id": "montacarga-7-00-12",
+   "cat": "montacarga",
+   "catTitle": "Neumáticos de montacarga",
+   "group": "Medida",
+   "name": "7.00-12 · Medida",
+   "short": "7.00-12",
+   "img": null,
+   "desc": [
+    "Neumático de montacargas medida 7.00-12, para equipos de almacén y logística.",
+    "Confirma la medida con la placa o el neumático actual de tu montacargas antes de pedir."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de montacarga"
+    ],
+    [
+     "Medida",
+     "7.00-12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "almacen",
+    "montacarga",
+    "neumatico"
+   ],
+   "related": [
+    "montacarga-6-50-10",
+    "montacarga-6-00-9",
+    "montacarga-8-25-15",
+    "montacarga-29x9-15-es-8-15-15"
+   ]
+  },
+  {
+   "id": "montacarga-6-50-10",
+   "cat": "montacarga",
+   "catTitle": "Neumáticos de montacarga",
+   "group": "Medida",
+   "name": "6.50-10 · Medida",
+   "short": "6.50-10",
+   "img": null,
+   "desc": [
+    "Neumático de montacargas medida 6.50-10, para equipos de almacén y logística.",
+    "Confirma la medida con la placa o el neumático actual de tu montacargas antes de pedir."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de montacarga"
+    ],
+    [
+     "Medida",
+     "6.50-10"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "almacen",
+    "montacarga",
+    "neumatico"
+   ],
+   "related": [
+    "montacarga-6-00-9",
+    "montacarga-8-25-15",
+    "montacarga-29x9-15-es-8-15-15",
+    "montacarga-7-00-12"
+   ]
+  },
+  {
+   "id": "montacarga-6-00-9",
+   "cat": "montacarga",
+   "catTitle": "Neumáticos de montacarga",
+   "group": "Medida",
+   "name": "6.00-9 · Medida",
+   "short": "6.00-9",
+   "img": null,
+   "desc": [
+    "Neumático de montacargas medida 6.00-9, para equipos de almacén y logística.",
+    "Confirma la medida con la placa o el neumático actual de tu montacargas antes de pedir."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Neumático de montacarga"
+    ],
+    [
+     "Medida",
+     "6.00-9"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "almacen",
+    "montacarga",
+    "neumatico"
+   ],
+   "related": [
+    "montacarga-8-25-15",
+    "montacarga-29x9-15-es-8-15-15",
+    "montacarga-7-00-12",
+    "montacarga-6-50-10"
+   ]
+  },
+  {
+   "id": "baterias-motos-12v-9ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Motos",
+   "name": "12V 9AH · Motos",
+   "short": "12V 9AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 9AH para motos. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Motos"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "9 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Motos",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-motos-12v-7ah",
+    "baterias-carros-12v-45ah",
+    "baterias-carros-12v-60ah",
+    "baterias-carros-12v-75ah"
+   ]
+  },
+  {
+   "id": "baterias-motos-12v-7ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Motos",
+   "name": "12V 7AH · Motos",
+   "short": "12V 7AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 7AH para motos. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Motos"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "7 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Motos",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-45ah",
+    "baterias-carros-12v-60ah",
+    "baterias-carros-12v-75ah",
+    "baterias-carros-12v-80ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-45ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 45AH · Carros",
+   "short": "12V 45AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 45AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "45 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-60ah",
+    "baterias-carros-12v-75ah",
+    "baterias-carros-12v-80ah",
+    "baterias-carros-12v-90ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-60ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 60AH · Carros",
+   "short": "12V 60AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 60AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "60 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-75ah",
+    "baterias-carros-12v-80ah",
+    "baterias-carros-12v-90ah",
+    "baterias-carros-12v-105ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-75ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 75AH · Carros",
+   "short": "12V 75AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 75AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "75 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-80ah",
+    "baterias-carros-12v-90ah",
+    "baterias-carros-12v-105ah",
+    "baterias-carros-12v-120ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-80ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 80AH · Carros",
+   "short": "12V 80AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 80AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "80 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-90ah",
+    "baterias-carros-12v-105ah",
+    "baterias-carros-12v-120ah",
+    "baterias-carros-12v-135ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-90ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 90AH · Carros",
+   "short": "12V 90AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 90AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "90 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-105ah",
+    "baterias-carros-12v-120ah",
+    "baterias-carros-12v-135ah",
+    "baterias-carros-12v-150ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-105ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 105AH · Carros",
+   "short": "12V 105AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 105AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "105 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-120ah",
+    "baterias-carros-12v-135ah",
+    "baterias-carros-12v-150ah",
+    "baterias-carros-12v-180ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-120ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 120AH · Carros",
+   "short": "12V 120AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 120AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "120 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-135ah",
+    "baterias-carros-12v-150ah",
+    "baterias-carros-12v-180ah",
+    "baterias-carros-12v-200ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-135ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 135AH · Carros",
+   "short": "12V 135AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 135AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "135 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-150ah",
+    "baterias-carros-12v-180ah",
+    "baterias-carros-12v-200ah",
+    "baterias-motos-12v-9ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-150ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 150AH · Carros",
+   "short": "12V 150AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 150AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "150 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-180ah",
+    "baterias-carros-12v-200ah",
+    "baterias-motos-12v-9ah",
+    "baterias-motos-12v-7ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-180ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 180AH · Carros",
+   "short": "12V 180AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 180AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "180 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-carros-12v-200ah",
+    "baterias-motos-12v-9ah",
+    "baterias-motos-12v-7ah",
+    "baterias-carros-12v-45ah"
+   ]
+  },
+  {
+   "id": "baterias-carros-12v-200ah",
+   "cat": "baterias",
+   "catTitle": "Baterías",
+   "group": "Carros",
+   "name": "12V 200AH · Carros",
+   "short": "12V 200AH",
+   "img": null,
+   "desc": [
+    "Batería de 12V 200AH para carros. La capacidad en amperios-hora (Ah) indica cuánta energía puede entregar; a mayor capacidad, mayor autonomía.",
+    "Verifica el tamaño y la posición de los bornes de tu batería actual y consúltanos si necesitas confirmar compatibilidad."
+   ],
+   "specs": [
+    [
+     "Aplicación",
+     "Carros"
+    ],
+    [
+     "Voltaje",
+     "12 V"
+    ],
+    [
+     "Capacidad",
+     "200 Ah"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Carros",
+    "acumulador",
+    "bateria"
+   ],
+   "related": [
+    "baterias-motos-12v-9ah",
+    "baterias-motos-12v-7ah",
+    "baterias-carros-12v-45ah",
+    "baterias-carros-12v-60ah"
+   ]
+  },
+  {
+   "id": "llantas-rin-13-13x7-0-8-100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 13",
+   "name": "13x7.0 - 8/100-114.3 · RIN 13",
+   "short": "13x7.0 - 8/100-114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 13x7.0 - 8/100-114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "13\""
+    ],
+    [
+     "Ancho",
+     "7.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "8/100-114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-14-14x6-5-8x100-114-3",
+    "llantas-rin-14-14x6-0-8x100-114-3",
+    "llantas-rin-14-14x5-5-8x100-114-3",
+    "llantas-rin-15-15x6-0-8x100-108"
+   ]
+  },
+  {
+   "id": "llantas-rin-14-14x6-5-8x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 14",
+   "name": "14x6.5 - 8x100/114.3 · RIN 14",
+   "short": "14x6.5 - 8x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 14x6.5 - 8x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "14\""
+    ],
+    [
+     "Ancho",
+     "6.5\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-14-14x6-0-8x100-114-3",
+    "llantas-rin-14-14x5-5-8x100-114-3",
+    "llantas-rin-15-15x6-0-8x100-108",
+    "llantas-rin-15-15x6-5-8x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-14-14x6-0-8x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 14",
+   "name": "14x6.0 - 8x100/114.3 · RIN 14",
+   "short": "14x6.0 - 8x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 14x6.0 - 8x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "14\""
+    ],
+    [
+     "Ancho",
+     "6.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-14-14x5-5-8x100-114-3",
+    "llantas-rin-15-15x6-0-8x100-108",
+    "llantas-rin-15-15x6-5-8x100-114-3",
+    "llantas-rin-15-15x7-0-6x139-7"
+   ]
+  },
+  {
+   "id": "llantas-rin-14-14x5-5-8x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 14",
+   "name": "14x5.5 - 8x100/114.3 · RIN 14",
+   "short": "14x5.5 - 8x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 14x5.5 - 8x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "14\""
+    ],
+    [
+     "Ancho",
+     "5.5\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-15-15x6-0-8x100-108",
+    "llantas-rin-15-15x6-5-8x100-114-3",
+    "llantas-rin-15-15x7-0-6x139-7",
+    "llantas-rin-15-15x8-0-10x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-15-15x6-0-8x100-108",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 15",
+   "name": "15x6.0 - 8x100/108 · RIN 15",
+   "short": "15x6.0 - 8x100/108",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 15x6.0 - 8x100/108. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "15\""
+    ],
+    [
+     "Ancho",
+     "6.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/108"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-15-15x6-5-8x100-114-3",
+    "llantas-rin-15-15x7-0-6x139-7",
+    "llantas-rin-15-15x8-0-10x100-114-3",
+    "llantas-rin-15-15x8-25-8x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-15-15x6-5-8x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 15",
+   "name": "15x6.5 - 8x100/114.3 · RIN 15",
+   "short": "15x6.5 - 8x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 15x6.5 - 8x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "15\""
+    ],
+    [
+     "Ancho",
+     "6.5\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-15-15x7-0-6x139-7",
+    "llantas-rin-15-15x8-0-10x100-114-3",
+    "llantas-rin-15-15x8-25-8x100-114-3",
+    "llantas-rin-16-16x6-5-8x100-108"
+   ]
+  },
+  {
+   "id": "llantas-rin-15-15x7-0-6x139-7",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 15",
+   "name": "15x7.0 - 6x139.7 · RIN 15",
+   "short": "15x7.0 - 6x139.7",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 15x7.0 - 6x139.7. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "15\""
+    ],
+    [
+     "Ancho",
+     "7.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "6x139.7"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-15-15x8-0-10x100-114-3",
+    "llantas-rin-15-15x8-25-8x100-114-3",
+    "llantas-rin-16-16x6-5-8x100-108",
+    "llantas-rin-16-16x7-0-8x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-15-15x8-0-10x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 15",
+   "name": "15x8.0 - 10x100/114.3 · RIN 15",
+   "short": "15x8.0 - 10x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 15x8.0 - 10x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "15\""
+    ],
+    [
+     "Ancho",
+     "8.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "10x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-15-15x8-25-8x100-114-3",
+    "llantas-rin-16-16x6-5-8x100-108",
+    "llantas-rin-16-16x7-0-8x100-114-3",
+    "llantas-rin-16-16x7-0-10x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-15-15x8-25-8x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 15",
+   "name": "15x8.25 - 8x100/114.3 · RIN 15",
+   "short": "15x8.25 - 8x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 15x8.25 - 8x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "15\""
+    ],
+    [
+     "Ancho",
+     "8.25\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-16-16x6-5-8x100-108",
+    "llantas-rin-16-16x7-0-8x100-114-3",
+    "llantas-rin-16-16x7-0-10x100-114-3",
+    "llantas-rin-17-17x7-0-5x114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-16-16x6-5-8x100-108",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 16",
+   "name": "16x6.5 - 8x100/108 · RIN 16",
+   "short": "16x6.5 - 8x100/108",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 16x6.5 - 8x100/108. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "16\""
+    ],
+    [
+     "Ancho",
+     "6.5\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/108"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-16-16x7-0-8x100-114-3",
+    "llantas-rin-16-16x7-0-10x100-114-3",
+    "llantas-rin-17-17x7-0-5x114-3",
+    "llantas-rin-17-17x7-5-4x100"
+   ]
+  },
+  {
+   "id": "llantas-rin-16-16x7-0-8x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 16",
+   "name": "16x7.0 - 8x100/114.3 · RIN 16",
+   "short": "16x7.0 - 8x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 16x7.0 - 8x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "16\""
+    ],
+    [
+     "Ancho",
+     "7.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-16-16x7-0-10x100-114-3",
+    "llantas-rin-17-17x7-0-5x114-3",
+    "llantas-rin-17-17x7-5-4x100",
+    "llantas-rin-17-17x7-5-8x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-16-16x7-0-10x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 16",
+   "name": "16x7.0 - 10x100/114.3 · RIN 16",
+   "short": "16x7.0 - 10x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 16x7.0 - 10x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "16\""
+    ],
+    [
+     "Ancho",
+     "7.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "10x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-17-17x7-0-5x114-3",
+    "llantas-rin-17-17x7-5-4x100",
+    "llantas-rin-17-17x7-5-8x100-114-3",
+    "llantas-rin-17-17x7-5-10x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-17-17x7-0-5x114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 17",
+   "name": "17x7.0 - 5x114.3 · RIN 17",
+   "short": "17x7.0 - 5x114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 17x7.0 - 5x114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "17\""
+    ],
+    [
+     "Ancho",
+     "7.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "5x114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-17-17x7-5-4x100",
+    "llantas-rin-17-17x7-5-8x100-114-3",
+    "llantas-rin-17-17x7-5-10x100-114-3",
+    "llantas-rin-17-17x9-0-6x139-7"
+   ]
+  },
+  {
+   "id": "llantas-rin-17-17x7-5-4x100",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 17",
+   "name": "17x7.5 - 4x100 · RIN 17",
+   "short": "17x7.5 - 4x100",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 17x7.5 - 4x100. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "17\""
+    ],
+    [
+     "Ancho",
+     "7.5\""
+    ],
+    [
+     "Patrón de pernos",
+     "4x100"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-17-17x7-5-8x100-114-3",
+    "llantas-rin-17-17x7-5-10x100-114-3",
+    "llantas-rin-17-17x9-0-6x139-7",
+    "llantas-rin-18-18x8-0-10x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-17-17x7-5-8x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 17",
+   "name": "17x7.5 - 8x100/114.3 · RIN 17",
+   "short": "17x7.5 - 8x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 17x7.5 - 8x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "17\""
+    ],
+    [
+     "Ancho",
+     "7.5\""
+    ],
+    [
+     "Patrón de pernos",
+     "8x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-17-17x7-5-10x100-114-3",
+    "llantas-rin-17-17x9-0-6x139-7",
+    "llantas-rin-18-18x8-0-10x100-114-3",
+    "llantas-rin-13-13x7-0-8-100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-17-17x7-5-10x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 17",
+   "name": "17x7.5 - 10x100/114.3 · RIN 17",
+   "short": "17x7.5 - 10x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 17x7.5 - 10x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "17\""
+    ],
+    [
+     "Ancho",
+     "7.5\""
+    ],
+    [
+     "Patrón de pernos",
+     "10x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-17-17x9-0-6x139-7",
+    "llantas-rin-18-18x8-0-10x100-114-3",
+    "llantas-rin-13-13x7-0-8-100-114-3",
+    "llantas-rin-14-14x6-5-8x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-17-17x9-0-6x139-7",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 17",
+   "name": "17x9.0 - 6x139.7 · RIN 17",
+   "short": "17x9.0 - 6x139.7",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 17x9.0 - 6x139.7. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "17\""
+    ],
+    [
+     "Ancho",
+     "9.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "6x139.7"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-18-18x8-0-10x100-114-3",
+    "llantas-rin-13-13x7-0-8-100-114-3",
+    "llantas-rin-14-14x6-5-8x100-114-3",
+    "llantas-rin-14-14x6-0-8x100-114-3"
+   ]
+  },
+  {
+   "id": "llantas-rin-18-18x8-0-10x100-114-3",
+   "cat": "llantas",
+   "catTitle": "Llantas",
+   "group": "RIN 18",
+   "name": "18x8.0 - 10x100/114.3 · RIN 18",
+   "short": "18x8.0 - 10x100/114.3",
+   "img": null,
+   "desc": [
+    "Llanta (rin) 18x8.0 - 10x100/114.3. El primer número es el diámetro en pulgadas y el último el patrón de agujeros y separación de los pernos.",
+    "Antes de comprar confirma el patrón de pernos de tu vehículo para asegurar que la llanta monte correctamente."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Llanta (rin metálico)"
+    ],
+    [
+     "Diámetro",
+     "18\""
+    ],
+    [
+     "Ancho",
+     "8.0\""
+    ],
+    [
+     "Patrón de pernos",
+     "10x100/114.3"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "aro",
+    "llanta",
+    "rin"
+   ],
+   "related": [
+    "llantas-rin-13-13x7-0-8-100-114-3",
+    "llantas-rin-14-14x6-5-8x100-114-3",
+    "llantas-rin-14-14x6-0-8x100-114-3",
+    "llantas-rin-14-14x5-5-8x100-114-3"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-15w40-castrol-gtx-3-78l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 15w40 Castrol GTX 3.78L",
+   "short": "Aceite 15w40 Castrol GTX 3.78L",
+   "img": null,
+   "desc": [
+    "Aceite 15w40 Castrol GTX 3.78L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Castrol"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "3.78 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-15w40-castrol-gtx-5l",
+    "lubricantes-aceite-15w40-qlc-5l",
+    "lubricantes-aceite-20w50-qlc-5l",
+    "lubricantes-aceite-15w40-gazprom-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-15w40-castrol-gtx-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 15w40 Castrol GTX 5L",
+   "short": "Aceite 15w40 Castrol GTX 5L",
+   "img": null,
+   "desc": [
+    "Aceite 15w40 Castrol GTX 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Castrol"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-15w40-qlc-5l",
+    "lubricantes-aceite-20w50-qlc-5l",
+    "lubricantes-aceite-15w40-gazprom-5l",
+    "lubricantes-aceite-20w50-gazprom-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-15w40-qlc-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 15w40 QLC 5L",
+   "short": "Aceite 15w40 QLC 5L",
+   "img": null,
+   "desc": [
+    "Aceite 15w40 QLC 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "QLC"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-20w50-qlc-5l",
+    "lubricantes-aceite-15w40-gazprom-5l",
+    "lubricantes-aceite-20w50-gazprom-5l",
+    "lubricantes-aceite-mannol-10w40-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-20w50-qlc-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 20w50 QLC 5L",
+   "short": "Aceite 20w50 QLC 5L",
+   "img": null,
+   "desc": [
+    "Aceite 20w50 QLC 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "QLC"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-15w40-gazprom-5l",
+    "lubricantes-aceite-20w50-gazprom-5l",
+    "lubricantes-aceite-mannol-10w40-5l",
+    "lubricantes-aceite-mannol-15w40-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-15w40-gazprom-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 15w40 Gazprom 5L",
+   "short": "Aceite 15w40 Gazprom 5L",
+   "img": null,
+   "desc": [
+    "Aceite 15w40 Gazprom 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Gazprom"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-20w50-gazprom-5l",
+    "lubricantes-aceite-mannol-10w40-5l",
+    "lubricantes-aceite-mannol-15w40-5l",
+    "lubricantes-aceite-mannol-20w50-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-20w50-gazprom-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 20w50 Gazprom 5L",
+   "short": "Aceite 20w50 Gazprom 5L",
+   "img": null,
+   "desc": [
+    "Aceite 20w50 Gazprom 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Gazprom"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-mannol-10w40-5l",
+    "lubricantes-aceite-mannol-15w40-5l",
+    "lubricantes-aceite-mannol-20w50-5l",
+    "lubricantes-aceite-iada-10w40-1l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-mannol-10w40-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Mannol 10w40 5L",
+   "short": "Aceite Mannol 10w40 5L",
+   "img": null,
+   "desc": [
+    "Aceite Mannol 10w40 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 10W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Mannol"
+    ],
+    [
+     "Viscosidad",
+     "10W40"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-mannol-15w40-5l",
+    "lubricantes-aceite-mannol-20w50-5l",
+    "lubricantes-aceite-iada-10w40-1l",
+    "lubricantes-aceite-iada-15w40-1l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-mannol-15w40-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Mannol 15w40 5L",
+   "short": "Aceite Mannol 15w40 5L",
+   "img": null,
+   "desc": [
+    "Aceite Mannol 15w40 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Mannol"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-mannol-20w50-5l",
+    "lubricantes-aceite-iada-10w40-1l",
+    "lubricantes-aceite-iada-15w40-1l",
+    "lubricantes-aceite-iada-20w50-1l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-mannol-20w50-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Mannol 20w50 5L",
+   "short": "Aceite Mannol 20w50 5L",
+   "img": null,
+   "desc": [
+    "Aceite Mannol 20w50 5L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Mannol"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-iada-10w40-1l",
+    "lubricantes-aceite-iada-15w40-1l",
+    "lubricantes-aceite-iada-20w50-1l",
+    "lubricantes-aceite-iada-5w30-iada-sintetico"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-iada-10w40-1l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite IADA 10w40 1L",
+   "short": "Aceite IADA 10w40 1L",
+   "img": null,
+   "desc": [
+    "Aceite IADA 10w40 1L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 10W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Viscosidad",
+     "10W40"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-iada-15w40-1l",
+    "lubricantes-aceite-iada-20w50-1l",
+    "lubricantes-aceite-iada-5w30-iada-sintetico",
+    "lubricantes-aceite-iada-5w40-iada-sintetico"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-iada-15w40-1l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite IADA 15w40 1L",
+   "short": "Aceite IADA 15w40 1L",
+   "img": null,
+   "desc": [
+    "Aceite IADA 15w40 1L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-iada-20w50-1l",
+    "lubricantes-aceite-iada-5w30-iada-sintetico",
+    "lubricantes-aceite-iada-5w40-iada-sintetico",
+    "lubricantes-aceite-iada-15w40-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-iada-20w50-1l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite IADA 20w50 1L",
+   "short": "Aceite IADA 20w50 1L",
+   "img": null,
+   "desc": [
+    "Aceite IADA 20w50 1L. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-iada-5w30-iada-sintetico",
+    "lubricantes-aceite-iada-5w40-iada-sintetico",
+    "lubricantes-aceite-iada-15w40-5l",
+    "lubricantes-aceite-iada-20w50-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-iada-5w30-iada-sintetico",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite IADA 5w30 IADA Sintético",
+   "short": "Aceite IADA 5w30 IADA Sintético",
+   "img": null,
+   "desc": [
+    "Aceite IADA 5w30 IADA Sintético. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 5W30 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Viscosidad",
+     "5W30"
+    ],
+    [
+     "Base",
+     "Sintético"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-iada-5w40-iada-sintetico",
+    "lubricantes-aceite-iada-15w40-5l",
+    "lubricantes-aceite-iada-20w50-5l",
+    "lubricantes-aceite-2t-iada-1l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-iada-5w40-iada-sintetico",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite IADA 5w40 IADA Sintético",
+   "short": "Aceite IADA 5w40 IADA Sintético",
+   "img": null,
+   "desc": [
+    "Aceite IADA 5w40 IADA Sintético. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 5W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Viscosidad",
+     "5W40"
+    ],
+    [
+     "Base",
+     "Sintético"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-iada-15w40-5l",
+    "lubricantes-aceite-iada-20w50-5l",
+    "lubricantes-aceite-2t-iada-1l",
+    "lubricantes-aceite-eko-15w40-1l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-iada-15w40-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite IADA 15w40 (5L)",
+   "short": "Aceite IADA 15w40 (5L)",
+   "img": null,
+   "desc": [
+    "Aceite IADA 15w40 (5L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-iada-20w50-5l",
+    "lubricantes-aceite-2t-iada-1l",
+    "lubricantes-aceite-eko-15w40-1l",
+    "lubricantes-aceite-eko-20w50-1l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-iada-20w50-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite IADA 20w50 (5L)",
+   "short": "Aceite IADA 20w50 (5L)",
+   "img": null,
+   "desc": [
+    "Aceite IADA 20w50 (5L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-2t-iada-1l",
+    "lubricantes-aceite-eko-15w40-1l",
+    "lubricantes-aceite-eko-20w50-1l",
+    "lubricantes-aceite-eko-15w40-4l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-2t-iada-1l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 2T IADA 1L",
+   "short": "Aceite 2T IADA 1L",
+   "img": null,
+   "desc": [
+    "Aceite 2T IADA 1L. Aceite 2 tiempos para motores de dos tiempos.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite 2 tiempos"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite 2 tiempos",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-eko-15w40-1l",
+    "lubricantes-aceite-eko-20w50-1l",
+    "lubricantes-aceite-eko-15w40-4l",
+    "lubricantes-aceite-eko-20w50-4l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-eko-15w40-1l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite EKO 15w40 (1L)",
+   "short": "Aceite EKO 15w40 (1L)",
+   "img": null,
+   "desc": [
+    "Aceite EKO 15w40 (1L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-eko-20w50-1l",
+    "lubricantes-aceite-eko-15w40-4l",
+    "lubricantes-aceite-eko-20w50-4l",
+    "lubricantes-aceite-15w40-de-200l-marca-eko-para-diesel-y-gas"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-eko-20w50-1l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite EKO 20w50 (1L)",
+   "short": "Aceite EKO 20w50 (1L)",
+   "img": null,
+   "desc": [
+    "Aceite EKO 20w50 (1L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-eko-15w40-4l",
+    "lubricantes-aceite-eko-20w50-4l",
+    "lubricantes-aceite-15w40-de-200l-marca-eko-para-diesel-y-gas",
+    "lubricantes-aceite-20w50-de-200l-marca-eko-para-diesel-y-gas"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-eko-15w40-4l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite EKO 15w40 (4L)",
+   "short": "Aceite EKO 15w40 (4L)",
+   "img": null,
+   "desc": [
+    "Aceite EKO 15w40 (4L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-eko-20w50-4l",
+    "lubricantes-aceite-15w40-de-200l-marca-eko-para-diesel-y-gas",
+    "lubricantes-aceite-20w50-de-200l-marca-eko-para-diesel-y-gas",
+    "lubricantes-aceite-sinopec-15w40-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-eko-20w50-4l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite EKO 20w50 (4L)",
+   "short": "Aceite EKO 20w50 (4L)",
+   "img": null,
+   "desc": [
+    "Aceite EKO 20w50 (4L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-15w40-de-200l-marca-eko-para-diesel-y-gas",
+    "lubricantes-aceite-20w50-de-200l-marca-eko-para-diesel-y-gas",
+    "lubricantes-aceite-sinopec-15w40-5l",
+    "lubricantes-aceite-sinopec-20w50-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-15w40-de-200l-marca-eko-para-diesel-y-gas",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 15w40 de 200L Marca EKO para Diesel y Gasolina",
+   "short": "Aceite 15w40 de 200L Marca EKO para Diesel y Gasolina",
+   "img": null,
+   "desc": [
+    "Aceite 15w40 de 200L Marca EKO para Diesel y Gasolina. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "200 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-20w50-de-200l-marca-eko-para-diesel-y-gas",
+    "lubricantes-aceite-sinopec-15w40-5l",
+    "lubricantes-aceite-sinopec-20w50-5l",
+    "lubricantes-aceite-sinopec-15w40-4l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-20w50-de-200l-marca-eko-para-diesel-y-gas",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite 20w50 de 200L Marca EKO para Diesel y Gasolina",
+   "short": "Aceite 20w50 de 200L Marca EKO para Diesel y Gasolina",
+   "img": null,
+   "desc": [
+    "Aceite 20w50 de 200L Marca EKO para Diesel y Gasolina. Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "200 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-sinopec-15w40-5l",
+    "lubricantes-aceite-sinopec-20w50-5l",
+    "lubricantes-aceite-sinopec-15w40-4l",
+    "lubricantes-aceite-sinopec-5w30-4l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-sinopec-15w40-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Sinopec 15w40 (5L)",
+   "short": "Aceite Sinopec 15w40 (5L)",
+   "img": null,
+   "desc": [
+    "Aceite Sinopec 15w40 (5L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Sinopec"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-sinopec-20w50-5l",
+    "lubricantes-aceite-sinopec-15w40-4l",
+    "lubricantes-aceite-sinopec-5w30-4l",
+    "lubricantes-aceite-sinopec-20w50-4l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-sinopec-20w50-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Sinopec 20w50 (5L)",
+   "short": "Aceite Sinopec 20w50 (5L)",
+   "img": null,
+   "desc": [
+    "Aceite Sinopec 20w50 (5L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Sinopec"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-sinopec-15w40-4l",
+    "lubricantes-aceite-sinopec-5w30-4l",
+    "lubricantes-aceite-sinopec-20w50-4l",
+    "lubricantes-aceite-hidraulico-nordsea-20l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-sinopec-15w40-4l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Sinopec 15w40 (4L)",
+   "short": "Aceite Sinopec 15w40 (4L)",
+   "img": null,
+   "desc": [
+    "Aceite Sinopec 15w40 (4L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 15W40 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Sinopec"
+    ],
+    [
+     "Viscosidad",
+     "15W40"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-sinopec-5w30-4l",
+    "lubricantes-aceite-sinopec-20w50-4l",
+    "lubricantes-aceite-hidraulico-nordsea-20l",
+    "lubricantes-aceite-hidraulico-ihm-68-5l-iada"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-sinopec-5w30-4l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Sinopec 5w30 (4L)",
+   "short": "Aceite Sinopec 5w30 (4L)",
+   "img": null,
+   "desc": [
+    "Aceite Sinopec 5w30 (4L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 5W30 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Sinopec"
+    ],
+    [
+     "Viscosidad",
+     "5W30"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-sinopec-20w50-4l",
+    "lubricantes-aceite-hidraulico-nordsea-20l",
+    "lubricantes-aceite-hidraulico-ihm-68-5l-iada",
+    "lubricantes-aceite-nordsea-2t-1l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-sinopec-20w50-4l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Sinopec 20w50 (4L)",
+   "short": "Aceite Sinopec 20w50 (4L)",
+   "img": null,
+   "desc": [
+    "Aceite Sinopec 20w50 (4L). Aceite de motor para motores de gasolina y diésel.",
+    "La viscosidad 20W50 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de motor"
+    ],
+    [
+     "Marca",
+     "Sinopec"
+    ],
+    [
+     "Viscosidad",
+     "20W50"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de motor",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-hidraulico-nordsea-20l",
+    "lubricantes-aceite-hidraulico-ihm-68-5l-iada",
+    "lubricantes-aceite-nordsea-2t-1l",
+    "lubricantes-aceite-caja-mecanica-80w90-4l-eko"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-hidraulico-nordsea-20l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite hidráulico NordSea 20L",
+   "short": "Aceite hidráulico NordSea 20L",
+   "img": null,
+   "desc": [
+    "Aceite hidráulico NordSea 20L. Aceite hidráulico para sistemas hidráulicos.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite hidráulico"
+    ],
+    [
+     "Marca",
+     "NordSea"
+    ],
+    [
+     "Contenido",
+     "20 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite hidráulico",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-hidraulico-ihm-68-5l-iada",
+    "lubricantes-aceite-nordsea-2t-1l",
+    "lubricantes-aceite-caja-mecanica-80w90-4l-eko",
+    "lubricantes-aceite-caja-automatica-atf-iii-1l-sinopec"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-hidraulico-ihm-68-5l-iada",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite hidráulico IHM 68 5L IADA",
+   "short": "Aceite hidráulico IHM 68 5L IADA",
+   "img": null,
+   "desc": [
+    "Aceite hidráulico IHM 68 5L IADA. Aceite hidráulico para sistemas hidráulicos.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite hidráulico"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite hidráulico",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-nordsea-2t-1l",
+    "lubricantes-aceite-caja-mecanica-80w90-4l-eko",
+    "lubricantes-aceite-caja-automatica-atf-iii-1l-sinopec",
+    "lubricantes-aceite-caja-automatica-atf-iii-4l-eko"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-nordsea-2t-1l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite NordSea 2T (1L)",
+   "short": "Aceite NordSea 2T (1L)",
+   "img": null,
+   "desc": [
+    "Aceite NordSea 2T (1L). Aceite 2 tiempos para motores de dos tiempos.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite 2 tiempos"
+    ],
+    [
+     "Marca",
+     "NordSea"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite 2 tiempos",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-caja-mecanica-80w90-4l-eko",
+    "lubricantes-aceite-caja-automatica-atf-iii-1l-sinopec",
+    "lubricantes-aceite-caja-automatica-atf-iii-4l-eko",
+    "lubricantes-aceite-de-caja-automatica-dexron-iii-de-5l-marca"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-caja-mecanica-80w90-4l-eko",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Caja Mecanica 80w90 (4L) EKO",
+   "short": "Aceite Caja Mecanica 80w90 (4L) EKO",
+   "img": null,
+   "desc": [
+    "Aceite Caja Mecanica 80w90 (4L) EKO. Aceite de transmisión para cajas de cambios.",
+    "La viscosidad 80W90 define el comportamiento del aceite en frío y en caliente; usa la que recomiende el manual de tu vehículo.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de transmisión"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Viscosidad",
+     "80W90"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de transmisión",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-caja-automatica-atf-iii-1l-sinopec",
+    "lubricantes-aceite-caja-automatica-atf-iii-4l-eko",
+    "lubricantes-aceite-de-caja-automatica-dexron-iii-de-5l-marca",
+    "lubricantes-agua-refrigerante-4l-eko"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-caja-automatica-atf-iii-1l-sinopec",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Caja Automatica ATF III (1L) SINOPEC",
+   "short": "Aceite Caja Automatica ATF III (1L) SINOPEC",
+   "img": null,
+   "desc": [
+    "Aceite Caja Automatica ATF III (1L) SINOPEC. Aceite de transmisión para cajas de cambios.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de transmisión"
+    ],
+    [
+     "Marca",
+     "Sinopec"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de transmisión",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-caja-automatica-atf-iii-4l-eko",
+    "lubricantes-aceite-de-caja-automatica-dexron-iii-de-5l-marca",
+    "lubricantes-agua-refrigerante-4l-eko",
+    "lubricantes-agua-refrigerante-marca-iada-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-caja-automatica-atf-iii-4l-eko",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite Caja Automatica ATF III (4L) EKO",
+   "short": "Aceite Caja Automatica ATF III (4L) EKO",
+   "img": null,
+   "desc": [
+    "Aceite Caja Automatica ATF III (4L) EKO. Aceite de transmisión para cajas de cambios.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de transmisión"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de transmisión",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-de-caja-automatica-dexron-iii-de-5l-marca",
+    "lubricantes-agua-refrigerante-4l-eko",
+    "lubricantes-agua-refrigerante-marca-iada-5l",
+    "lubricantes-liquido-de-freno-dot-4-de-500ml-marca-iada"
+   ]
+  },
+  {
+   "id": "lubricantes-aceite-de-caja-automatica-dexron-iii-de-5l-marca",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aceite de Caja Automática Dexron III de 5L Marca Iada",
+   "short": "Aceite de Caja Automática Dexron III de 5L Marca Iada",
+   "img": null,
+   "desc": [
+    "Aceite de Caja Automática Dexron III de 5L Marca Iada. Aceite de transmisión para cajas de cambios.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aceite de transmisión"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aceite de transmisión",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-agua-refrigerante-4l-eko",
+    "lubricantes-agua-refrigerante-marca-iada-5l",
+    "lubricantes-liquido-de-freno-dot-4-de-500ml-marca-iada",
+    "lubricantes-liquido-de-freno-dot-4-de-1l-marca-eko"
+   ]
+  },
+  {
+   "id": "lubricantes-agua-refrigerante-4l-eko",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Agua Refrigerante (4L) EKO",
+   "short": "Agua Refrigerante (4L) EKO",
+   "img": null,
+   "desc": [
+    "Agua Refrigerante (4L) EKO. Refrigerante para el circuito de enfriamiento del motor.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Refrigerante"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Contenido",
+     "4 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Refrigerante",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-agua-refrigerante-marca-iada-5l",
+    "lubricantes-liquido-de-freno-dot-4-de-500ml-marca-iada",
+    "lubricantes-liquido-de-freno-dot-4-de-1l-marca-eko",
+    "lubricantes-grasa-nordsea-ep-2-400g"
+   ]
+  },
+  {
+   "id": "lubricantes-agua-refrigerante-marca-iada-5l",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Agua Refrigerante Marca Iada 5L",
+   "short": "Agua Refrigerante Marca Iada 5L",
+   "img": null,
+   "desc": [
+    "Agua Refrigerante Marca Iada 5L. Refrigerante para el circuito de enfriamiento del motor.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Refrigerante"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Contenido",
+     "5 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Refrigerante",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-liquido-de-freno-dot-4-de-500ml-marca-iada",
+    "lubricantes-liquido-de-freno-dot-4-de-1l-marca-eko",
+    "lubricantes-grasa-nordsea-ep-2-400g",
+    "lubricantes-grasa-nordsea-ep-2-18kg"
+   ]
+  },
+  {
+   "id": "lubricantes-liquido-de-freno-dot-4-de-500ml-marca-iada",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Liquido de freno dot 4 de 500ml Marca IADA",
+   "short": "Liquido de freno dot 4 de 500ml Marca IADA",
+   "img": null,
+   "desc": [
+    "Liquido de freno dot 4 de 500ml Marca IADA. Líquido de frenos para el sistema de frenos.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Líquido de frenos"
+    ],
+    [
+     "Marca",
+     "IADA"
+    ],
+    [
+     "Contenido",
+     "500 ML"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Líquido de frenos",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-liquido-de-freno-dot-4-de-1l-marca-eko",
+    "lubricantes-grasa-nordsea-ep-2-400g",
+    "lubricantes-grasa-nordsea-ep-2-18kg",
+    "lubricantes-grasa-ep2-5kg"
+   ]
+  },
+  {
+   "id": "lubricantes-liquido-de-freno-dot-4-de-1l-marca-eko",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Liquido de freno dot 4 de 1L Marca EKO",
+   "short": "Liquido de freno dot 4 de 1L Marca EKO",
+   "img": null,
+   "desc": [
+    "Liquido de freno dot 4 de 1L Marca EKO. Líquido de frenos para el sistema de frenos.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Líquido de frenos"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ],
+    [
+     "Contenido",
+     "1 L"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Líquido de frenos",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-grasa-nordsea-ep-2-400g",
+    "lubricantes-grasa-nordsea-ep-2-18kg",
+    "lubricantes-grasa-ep2-5kg",
+    "lubricantes-aditivo-para-aceite"
+   ]
+  },
+  {
+   "id": "lubricantes-grasa-nordsea-ep-2-400g",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Grasa NordSea Ep 2 (400g)",
+   "short": "Grasa NordSea Ep 2 (400g)",
+   "img": null,
+   "desc": [
+    "Grasa NordSea Ep 2 (400g). Grasa para lubricación de rodamientos y chasis.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Grasa"
+    ],
+    [
+     "Marca",
+     "NordSea"
+    ],
+    [
+     "Contenido",
+     "400 G"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Grasa",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-grasa-nordsea-ep-2-18kg",
+    "lubricantes-grasa-ep2-5kg",
+    "lubricantes-aditivo-para-aceite",
+    "lubricantes-aditivo-limpia-inyectores"
+   ]
+  },
+  {
+   "id": "lubricantes-grasa-nordsea-ep-2-18kg",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Grasa NordSea Ep 2 (18kg)",
+   "short": "Grasa NordSea Ep 2 (18kg)",
+   "img": null,
+   "desc": [
+    "Grasa NordSea Ep 2 (18kg). Grasa para lubricación de rodamientos y chasis.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Grasa"
+    ],
+    [
+     "Marca",
+     "NordSea"
+    ],
+    [
+     "Contenido",
+     "18 KG"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Grasa",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-grasa-ep2-5kg",
+    "lubricantes-aditivo-para-aceite",
+    "lubricantes-aditivo-limpia-inyectores",
+    "lubricantes-enjuague-de-motor-castrol"
+   ]
+  },
+  {
+   "id": "lubricantes-grasa-ep2-5kg",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Grasa Ep2 5kg",
+   "short": "Grasa Ep2 5kg",
+   "img": null,
+   "desc": [
+    "Grasa Ep2 5kg. Grasa para lubricación de rodamientos y chasis.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Grasa"
+    ],
+    [
+     "Contenido",
+     "5 KG"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Grasa",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aditivo-para-aceite",
+    "lubricantes-aditivo-limpia-inyectores",
+    "lubricantes-enjuague-de-motor-castrol",
+    "lubricantes-octanaje-booster"
+   ]
+  },
+  {
+   "id": "lubricantes-aditivo-para-aceite",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aditivo para Aceite",
+   "short": "Aditivo para Aceite",
+   "img": null,
+   "desc": [
+    "Aditivo para Aceite. Aditivo / tratamiento para el mantenimiento del motor y el combustible.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aditivo / tratamiento"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aditivo / tratamiento",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aditivo-limpia-inyectores",
+    "lubricantes-enjuague-de-motor-castrol",
+    "lubricantes-octanaje-booster",
+    "lubricantes-aditivo-para-gasolina"
+   ]
+  },
+  {
+   "id": "lubricantes-aditivo-limpia-inyectores",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aditivo limpia inyectores",
+   "short": "Aditivo limpia inyectores",
+   "img": null,
+   "desc": [
+    "Aditivo limpia inyectores. Aditivo / tratamiento para el mantenimiento del motor y el combustible.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aditivo / tratamiento"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aditivo / tratamiento",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-enjuague-de-motor-castrol",
+    "lubricantes-octanaje-booster",
+    "lubricantes-aditivo-para-gasolina",
+    "lubricantes-aceite-15w40-castrol-gtx-3-78l"
+   ]
+  },
+  {
+   "id": "lubricantes-enjuague-de-motor-castrol",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Enjuague de motor Castrol",
+   "short": "Enjuague de motor Castrol",
+   "img": null,
+   "desc": [
+    "Enjuague de motor Castrol. Aditivo / tratamiento para el mantenimiento del motor y el combustible.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aditivo / tratamiento"
+    ],
+    [
+     "Marca",
+     "Castrol"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aditivo / tratamiento",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-octanaje-booster",
+    "lubricantes-aditivo-para-gasolina",
+    "lubricantes-aceite-15w40-castrol-gtx-3-78l",
+    "lubricantes-aceite-15w40-castrol-gtx-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-octanaje-booster",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Octanaje Booster",
+   "short": "Octanaje Booster",
+   "img": null,
+   "desc": [
+    "Octanaje Booster. Aditivo / tratamiento para el mantenimiento del motor y el combustible.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aditivo / tratamiento"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aditivo / tratamiento",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aditivo-para-gasolina",
+    "lubricantes-aceite-15w40-castrol-gtx-3-78l",
+    "lubricantes-aceite-15w40-castrol-gtx-5l",
+    "lubricantes-aceite-15w40-qlc-5l"
+   ]
+  },
+  {
+   "id": "lubricantes-aditivo-para-gasolina",
+   "cat": "lubricantes",
+   "catTitle": "Lubricantes",
+   "group": "Producto",
+   "name": "Aditivo para Gasolina",
+   "short": "Aditivo para Gasolina",
+   "img": null,
+   "desc": [
+    "Aditivo para Gasolina. Aditivo / tratamiento para el mantenimiento del motor y el combustible.",
+    "Consulta por WhatsApp si no estás seguro de cuál producto corresponde a tu equipo."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Aditivo / tratamiento"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Aditivo / tratamiento",
+    "aceite",
+    "lubricante"
+   ],
+   "related": [
+    "lubricantes-aceite-15w40-castrol-gtx-3-78l",
+    "lubricantes-aceite-15w40-castrol-gtx-5l",
+    "lubricantes-aceite-15w40-qlc-5l",
+    "lubricantes-aceite-20w50-qlc-5l"
+   ]
+  },
+  {
+   "id": "electrodomesticos-juegos-de-calderos-de-aluminio-con-base-de",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Juegos de calderos de aluminio con base de inducción (5 piezas)",
+   "short": "Juegos de calderos de aluminio con base de inducción (5 piezas)",
+   "img": null,
+   "desc": [
+    "Juegos de calderos de aluminio con base de inducción (5 piezas). Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-olla-arrocera-electrica-1-8l-700w",
+    "electrodomesticos-olla-de-presion-convencional-5-5l",
+    "electrodomesticos-batidora-de-mesa-de-1-5l-vaso-cristal",
+    "electrodomesticos-cocina-infrarroja-1500w-una-hornilla"
+   ]
+  },
+  {
+   "id": "electrodomesticos-olla-arrocera-electrica-1-8l-700w",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Olla Arrocera Eléctrica 1.8L, 700W",
+   "short": "Olla Arrocera Eléctrica 1.8L, 700W",
+   "img": null,
+   "desc": [
+    "Olla Arrocera Eléctrica 1.8L, 700W. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-olla-de-presion-convencional-5-5l",
+    "electrodomesticos-batidora-de-mesa-de-1-5l-vaso-cristal",
+    "electrodomesticos-cocina-infrarroja-1500w-una-hornilla",
+    "electrodomesticos-ventilador-de-pedestal-18"
+   ]
+  },
+  {
+   "id": "electrodomesticos-olla-de-presion-convencional-5-5l",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Olla de presión convencional 5,5L",
+   "short": "Olla de presión convencional 5,5L",
+   "img": null,
+   "desc": [
+    "Olla de presión convencional 5,5L. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-batidora-de-mesa-de-1-5l-vaso-cristal",
+    "electrodomesticos-cocina-infrarroja-1500w-una-hornilla",
+    "electrodomesticos-ventilador-de-pedestal-18",
+    "electrodomesticos-televisor-eko-32-pulgadas-hibrido-smart-tv"
+   ]
+  },
+  {
+   "id": "electrodomesticos-batidora-de-mesa-de-1-5l-vaso-cristal",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Batidora de mesa de 1.5L (vaso cristal)",
+   "short": "Batidora de mesa de 1.5L (vaso cristal)",
+   "img": null,
+   "desc": [
+    "Batidora de mesa de 1.5L (vaso cristal). Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-cocina-infrarroja-1500w-una-hornilla",
+    "electrodomesticos-ventilador-de-pedestal-18",
+    "electrodomesticos-televisor-eko-32-pulgadas-hibrido-smart-tv",
+    "electrodomesticos-cafetera-electrica-6-tazas-eko"
+   ]
+  },
+  {
+   "id": "electrodomesticos-cocina-infrarroja-1500w-una-hornilla",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Cocina Infrarroja 1500W una hornilla",
+   "short": "Cocina Infrarroja 1500W una hornilla",
+   "img": null,
+   "desc": [
+    "Cocina Infrarroja 1500W una hornilla. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-ventilador-de-pedestal-18",
+    "electrodomesticos-televisor-eko-32-pulgadas-hibrido-smart-tv",
+    "electrodomesticos-cafetera-electrica-6-tazas-eko",
+    "electrodomesticos-olla-de-presion-electrica-6l-1000w"
+   ]
+  },
+  {
+   "id": "electrodomesticos-ventilador-de-pedestal-18",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Ventilador de pedestal 18\"",
+   "short": "Ventilador de pedestal 18\"",
+   "img": null,
+   "desc": [
+    "Ventilador de pedestal 18\". Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-televisor-eko-32-pulgadas-hibrido-smart-tv",
+    "electrodomesticos-cafetera-electrica-6-tazas-eko",
+    "electrodomesticos-olla-de-presion-electrica-6l-1000w",
+    "electrodomesticos-split-eko-1-tonelada-kit-de-montaje"
+   ]
+  },
+  {
+   "id": "electrodomesticos-televisor-eko-32-pulgadas-hibrido-smart-tv",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Televisor EKO 32” pulgadas híbrido, (smart tv, cajita y soporte de pared)",
+   "short": "Televisor EKO 32” pulgadas híbrido, (smart tv, cajita y soporte de pared)",
+   "img": null,
+   "desc": [
+    "Televisor EKO 32” pulgadas híbrido, (smart tv, cajita y soporte de pared). Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-cafetera-electrica-6-tazas-eko",
+    "electrodomesticos-olla-de-presion-electrica-6l-1000w",
+    "electrodomesticos-split-eko-1-tonelada-kit-de-montaje",
+    "electrodomesticos-nevera-royal-5-pies"
+   ]
+  },
+  {
+   "id": "electrodomesticos-cafetera-electrica-6-tazas-eko",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Cafetera eléctrica 6 tazas EKO",
+   "short": "Cafetera eléctrica 6 tazas EKO",
+   "img": null,
+   "desc": [
+    "Cafetera eléctrica 6 tazas EKO. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-olla-de-presion-electrica-6l-1000w",
+    "electrodomesticos-split-eko-1-tonelada-kit-de-montaje",
+    "electrodomesticos-nevera-royal-5-pies",
+    "electrodomesticos-ventilador-de-bateria-multifuncional-f06"
+   ]
+  },
+  {
+   "id": "electrodomesticos-olla-de-presion-electrica-6l-1000w",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Olla de presión eléctrica, 6L, 1000W",
+   "short": "Olla de presión eléctrica, 6L, 1000W",
+   "img": null,
+   "desc": [
+    "Olla de presión eléctrica, 6L, 1000W. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-split-eko-1-tonelada-kit-de-montaje",
+    "electrodomesticos-nevera-royal-5-pies",
+    "electrodomesticos-ventilador-de-bateria-multifuncional-f06",
+    "electrodomesticos-extension-electrica-5m"
+   ]
+  },
+  {
+   "id": "electrodomesticos-split-eko-1-tonelada-kit-de-montaje",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Split EKO 1 tonelada (Kit de montaje )",
+   "short": "Split EKO 1 tonelada (Kit de montaje )",
+   "img": null,
+   "desc": [
+    "Split EKO 1 tonelada (Kit de montaje ). Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ],
+    [
+     "Marca",
+     "EKO"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-nevera-royal-5-pies",
+    "electrodomesticos-ventilador-de-bateria-multifuncional-f06",
+    "electrodomesticos-extension-electrica-5m",
+    "electrodomesticos-juegos-de-calderos-de-aluminio-con-base-de"
+   ]
+  },
+  {
+   "id": "electrodomesticos-nevera-royal-5-pies",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Nevera Royal 5 pies",
+   "short": "Nevera Royal 5 pies",
+   "img": null,
+   "desc": [
+    "Nevera Royal 5 pies. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ],
+    [
+     "Marca",
+     "Royal"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-ventilador-de-bateria-multifuncional-f06",
+    "electrodomesticos-extension-electrica-5m",
+    "electrodomesticos-juegos-de-calderos-de-aluminio-con-base-de",
+    "electrodomesticos-olla-arrocera-electrica-1-8l-700w"
+   ]
+  },
+  {
+   "id": "electrodomesticos-ventilador-de-bateria-multifuncional-f06",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Ventilador de batería multifuncional F06",
+   "short": "Ventilador de batería multifuncional F06",
+   "img": null,
+   "desc": [
+    "Ventilador de batería multifuncional F06. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-extension-electrica-5m",
+    "electrodomesticos-juegos-de-calderos-de-aluminio-con-base-de",
+    "electrodomesticos-olla-arrocera-electrica-1-8l-700w",
+    "electrodomesticos-olla-de-presion-convencional-5-5l"
+   ]
+  },
+  {
+   "id": "electrodomesticos-extension-electrica-5m",
+   "cat": "electrodomesticos",
+   "catTitle": "Electrodomésticos",
+   "group": "Producto",
+   "name": "Extensión eléctrica 5M",
+   "short": "Extensión eléctrica 5M",
+   "img": null,
+   "desc": [
+    "Extensión eléctrica 5M. Equipo para el hogar.",
+    "Consulta por WhatsApp la disponibilidad, el precio, las condiciones de entrega y si el producto incluye garantía."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Electrodoméstico"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "electrodomestico",
+    "hogar"
+   ],
+   "related": [
+    "electrodomesticos-juegos-de-calderos-de-aluminio-con-base-de",
+    "electrodomesticos-olla-arrocera-electrica-1-8l-700w",
+    "electrodomesticos-olla-de-presion-convencional-5-5l",
+    "electrodomesticos-batidora-de-mesa-de-1-5l-vaso-cristal"
+   ]
+  },
+  {
+   "id": "repuestos-bujias-bujia-estandar-c-bkr5e",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Bujías",
+   "name": "BUJIA ESTANDAR C-BKR5E",
+   "short": "BUJIA ESTANDAR C-BKR5E",
+   "img": null,
+   "desc": [
+    "BUJIA ESTANDAR C-BKR5E. Repuesto de la categoría bujías.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Bujías"
+    ],
+    [
+     "Referencia",
+     "BUJIA ESTANDAR C-BKR5E"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Bujías",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-bujias-bujia-extralarga-gorda-c-k20hr-u11",
+    "repuestos-bujias-bujia-extralarga-fina-c-lkr6d-10e",
+    "repuestos-bujias-cable-de-bujias-hyu-i10-20-picanto1-2l",
+    "repuestos-filtros-de-aceite-filtro-3-4-al-16-lada-fiat-geely"
+   ]
+  },
+  {
+   "id": "repuestos-bujias-bujia-extralarga-gorda-c-k20hr-u11",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Bujías",
+   "name": "BUJIA EXTRALARGA GORDA C-K20HR-U11",
+   "short": "BUJIA EXTRALARGA GORDA C-K20HR-U11",
+   "img": null,
+   "desc": [
+    "BUJIA EXTRALARGA GORDA C-K20HR-U11. Repuesto de la categoría bujías.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Bujías"
+    ],
+    [
+     "Referencia",
+     "BUJIA EXTRALARGA GORDA C-K20HR-U11"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Bujías",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-bujias-bujia-extralarga-fina-c-lkr6d-10e",
+    "repuestos-bujias-cable-de-bujias-hyu-i10-20-picanto1-2l",
+    "repuestos-filtros-de-aceite-filtro-3-4-al-16-lada-fiat-geely",
+    "repuestos-filtros-de-aceite-filtro-3-4-al-3682-toyota-geely-"
+   ]
+  },
+  {
+   "id": "repuestos-bujias-bujia-extralarga-fina-c-lkr6d-10e",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Bujías",
+   "name": "BUJIA EXTRALARGA FINA C-LKR6D-10E",
+   "short": "BUJIA EXTRALARGA FINA C-LKR6D-10E",
+   "img": null,
+   "desc": [
+    "BUJIA EXTRALARGA FINA C-LKR6D-10E. Repuesto de la categoría bujías.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Bujías"
+    ],
+    [
+     "Referencia",
+     "BUJIA EXTRALARGA FINA C-LKR6D-10E"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Bujías",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-bujias-cable-de-bujias-hyu-i10-20-picanto1-2l",
+    "repuestos-filtros-de-aceite-filtro-3-4-al-16-lada-fiat-geely",
+    "repuestos-filtros-de-aceite-filtro-3-4-al-3682-toyota-geely-",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-3807-hyundai-kia-"
+   ]
+  },
+  {
+   "id": "repuestos-bujias-cable-de-bujias-hyu-i10-20-picanto1-2l",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Bujías",
+   "name": "CABLE DE BUJIAS (HYU. I10/20, PICANTO1.2L)",
+   "short": "CABLE DE BUJIAS (HYU. I10/20, PICANTO1.2L)",
+   "img": null,
+   "desc": [
+    "CABLE DE BUJIAS (HYU. I10/20, PICANTO1.2L). Repuesto de la categoría bujías.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Bujías"
+    ],
+    [
+     "Referencia",
+     "CABLE DE BUJIAS (HYU. I10/20, PICANTO1.2L)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Bujías",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-aceite-filtro-3-4-al-16-lada-fiat-geely",
+    "repuestos-filtros-de-aceite-filtro-3-4-al-3682-toyota-geely-",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-3807-hyundai-kia-",
+    "repuestos-filtros-de-aceite-filtro-m-26-8-9165-071-0-hyundai"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-aceite-filtro-3-4-al-16-lada-fiat-geely",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de aceite",
+   "name": "FILTRO 3/4 AL-16 (LADA,FIAT,GEELY,ETC.)",
+   "short": "FILTRO 3/4 AL-16 (LADA,FIAT,GEELY,ETC.)",
+   "img": null,
+   "desc": [
+    "FILTRO 3/4 AL-16 (LADA,FIAT,GEELY,ETC.). Repuesto de la categoría filtros de aceite.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de aceite"
+    ],
+    [
+     "Referencia",
+     "FILTRO 3/4 AL-16 (LADA,FIAT,GEELY,ETC.)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de aceite",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-aceite-filtro-3-4-al-3682-toyota-geely-",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-3807-hyundai-kia-",
+    "repuestos-filtros-de-aceite-filtro-m-26-8-9165-071-0-hyundai",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-5566-citroen-peug"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-aceite-filtro-3-4-al-3682-toyota-geely-",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de aceite",
+   "name": "FILTRO 3/4 AL-3682 (TOYOTA,GEELY,NISSAN.)",
+   "short": "FILTRO 3/4 AL-3682 (TOYOTA,GEELY,NISSAN.)",
+   "img": null,
+   "desc": [
+    "FILTRO 3/4 AL-3682 (TOYOTA,GEELY,NISSAN.). Repuesto de la categoría filtros de aceite.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de aceite"
+    ],
+    [
+     "Referencia",
+     "FILTRO 3/4 AL-3682 (TOYOTA,GEELY,NISSAN.)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de aceite",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-aceite-filtro-m-20-al-3807-hyundai-kia-",
+    "repuestos-filtros-de-aceite-filtro-m-26-8-9165-071-0-hyundai",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-5566-citroen-peug",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-6607-kia-peugeot-"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-aceite-filtro-m-20-al-3807-hyundai-kia-",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de aceite",
+   "name": "FILTRO M/20 AL-3807 (HYUNDAI,KIA,TOYOTA,ETC)",
+   "short": "FILTRO M/20 AL-3807 (HYUNDAI,KIA,TOYOTA,ETC)",
+   "img": null,
+   "desc": [
+    "FILTRO M/20 AL-3807 (HYUNDAI,KIA,TOYOTA,ETC). Repuesto de la categoría filtros de aceite.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de aceite"
+    ],
+    [
+     "Referencia",
+     "FILTRO M/20 AL-3807 (HYUNDAI,KIA,TOYOTA,ETC)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de aceite",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-aceite-filtro-m-26-8-9165-071-0-hyundai",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-5566-citroen-peug",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-6607-kia-peugeot-",
+    "repuestos-filtros-de-aceite-filtro-cartucho-peugeot-citroen"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-aceite-filtro-m-26-8-9165-071-0-hyundai",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de aceite",
+   "name": "FILTRO M/26 8-9165-071-0 (HYUNDAI H100, MITSUBISHI)",
+   "short": "FILTRO M/26 8-9165-071-0 (HYUNDAI H100, MITSUBISHI)",
+   "img": null,
+   "desc": [
+    "FILTRO M/26 8-9165-071-0 (HYUNDAI H100, MITSUBISHI). Repuesto de la categoría filtros de aceite.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de aceite"
+    ],
+    [
+     "Referencia",
+     "FILTRO M/26 8-9165-071-0 (HYUNDAI H100, MITSUBISHI)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de aceite",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-aceite-filtro-m-20-al-5566-citroen-peug",
+    "repuestos-filtros-de-aceite-filtro-m-20-al-6607-kia-peugeot-",
+    "repuestos-filtros-de-aceite-filtro-cartucho-peugeot-citroen",
+    "repuestos-bombas-de-combustible-universal-sumergible-e2068-f"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-aceite-filtro-m-20-al-5566-citroen-peug",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de aceite",
+   "name": "FILTRO M/20 AL-5566 (CITROEN,PEUGEOT,ETC)",
+   "short": "FILTRO M/20 AL-5566 (CITROEN,PEUGEOT,ETC)",
+   "img": null,
+   "desc": [
+    "FILTRO M/20 AL-5566 (CITROEN,PEUGEOT,ETC). Repuesto de la categoría filtros de aceite.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de aceite"
+    ],
+    [
+     "Referencia",
+     "FILTRO M/20 AL-5566 (CITROEN,PEUGEOT,ETC)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de aceite",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-aceite-filtro-m-20-al-6607-kia-peugeot-",
+    "repuestos-filtros-de-aceite-filtro-cartucho-peugeot-citroen",
+    "repuestos-bombas-de-combustible-universal-sumergible-e2068-f",
+    "repuestos-bombas-de-combustible-universal-con-accesorios"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-aceite-filtro-m-20-al-6607-kia-peugeot-",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de aceite",
+   "name": "FILTRO M/20 AL-6607 (KIA,PEUGEOT,HYUNDAI,ETC)",
+   "short": "FILTRO M/20 AL-6607 (KIA,PEUGEOT,HYUNDAI,ETC)",
+   "img": null,
+   "desc": [
+    "FILTRO M/20 AL-6607 (KIA,PEUGEOT,HYUNDAI,ETC). Repuesto de la categoría filtros de aceite.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de aceite"
+    ],
+    [
+     "Referencia",
+     "FILTRO M/20 AL-6607 (KIA,PEUGEOT,HYUNDAI,ETC)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de aceite",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-aceite-filtro-cartucho-peugeot-citroen",
+    "repuestos-bombas-de-combustible-universal-sumergible-e2068-f",
+    "repuestos-bombas-de-combustible-universal-con-accesorios",
+    "repuestos-filtros-de-combustible-y-aire-filtros-de-combustib"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-aceite-filtro-cartucho-peugeot-citroen",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de aceite",
+   "name": "FILTRO (CARTUCHO) (PEUGEOT,CITROEN)",
+   "short": "FILTRO (CARTUCHO) (PEUGEOT,CITROEN)",
+   "img": null,
+   "desc": [
+    "FILTRO (CARTUCHO) (PEUGEOT,CITROEN). Repuesto de la categoría filtros de aceite.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de aceite"
+    ],
+    [
+     "Referencia",
+     "FILTRO (CARTUCHO) (PEUGEOT,CITROEN)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de aceite",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-bombas-de-combustible-universal-sumergible-e2068-f",
+    "repuestos-bombas-de-combustible-universal-con-accesorios",
+    "repuestos-filtros-de-combustible-y-aire-filtros-de-combustib",
+    "repuestos-filtros-de-combustible-y-aire-filtro-de-aire-motor"
+   ]
+  },
+  {
+   "id": "repuestos-bombas-de-combustible-universal-sumergible-e2068-f",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Bombas de combustible",
+   "name": "UNIVERSAL SUMERGIBLE E2068-FIL001",
+   "short": "UNIVERSAL SUMERGIBLE E2068-FIL001",
+   "img": null,
+   "desc": [
+    "UNIVERSAL SUMERGIBLE E2068-FIL001. Repuesto de la categoría bombas de combustible.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Bombas de combustible"
+    ],
+    [
+     "Referencia",
+     "UNIVERSAL SUMERGIBLE E2068-FIL001"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Bombas de combustible",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-bombas-de-combustible-universal-con-accesorios",
+    "repuestos-filtros-de-combustible-y-aire-filtros-de-combustib",
+    "repuestos-filtros-de-combustible-y-aire-filtro-de-aire-motor",
+    "repuestos-bujias-bujia-estandar-c-bkr5e"
+   ]
+  },
+  {
+   "id": "repuestos-bombas-de-combustible-universal-con-accesorios",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Bombas de combustible",
+   "name": "UNIVERSAL CON ACCESORIOS",
+   "short": "UNIVERSAL CON ACCESORIOS",
+   "img": null,
+   "desc": [
+    "UNIVERSAL CON ACCESORIOS. Repuesto de la categoría bombas de combustible.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Bombas de combustible"
+    ],
+    [
+     "Referencia",
+     "UNIVERSAL CON ACCESORIOS"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Bombas de combustible",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-combustible-y-aire-filtros-de-combustib",
+    "repuestos-filtros-de-combustible-y-aire-filtro-de-aire-motor",
+    "repuestos-bujias-bujia-estandar-c-bkr5e",
+    "repuestos-bujias-bujia-extralarga-gorda-c-k20hr-u11"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-combustible-y-aire-filtros-de-combustib",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de combustible y aire",
+   "name": "FILTROS DE COMBUSTIBLE (PEUGEOT,CITROEN,ETC)",
+   "short": "FILTROS DE COMBUSTIBLE (PEUGEOT,CITROEN,ETC)",
+   "img": null,
+   "desc": [
+    "FILTROS DE COMBUSTIBLE (PEUGEOT,CITROEN,ETC). Repuesto de la categoría filtros de combustible y aire.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de combustible y aire"
+    ],
+    [
+     "Referencia",
+     "FILTROS DE COMBUSTIBLE (PEUGEOT,CITROEN,ETC)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de combustible y aire",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-filtros-de-combustible-y-aire-filtro-de-aire-motor",
+    "repuestos-bujias-bujia-estandar-c-bkr5e",
+    "repuestos-bujias-bujia-extralarga-gorda-c-k20hr-u11",
+    "repuestos-bujias-bujia-extralarga-fina-c-lkr6d-10e"
+   ]
+  },
+  {
+   "id": "repuestos-filtros-de-combustible-y-aire-filtro-de-aire-motor",
+   "cat": "repuestos",
+   "catTitle": "Repuestos",
+   "group": "Filtros de combustible y aire",
+   "name": "FILTRO DE AIRE MOTOR (PEUGEOT,CITROEN,ETC)",
+   "short": "FILTRO DE AIRE MOTOR (PEUGEOT,CITROEN,ETC)",
+   "img": null,
+   "desc": [
+    "FILTRO DE AIRE MOTOR (PEUGEOT,CITROEN,ETC). Repuesto de la categoría filtros de combustible y aire.",
+    "Confirma la compatibilidad con tu vehículo (marca, modelo y motor) antes de pedir; escríbenos por WhatsApp y te ayudamos a verificarla."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Filtros de combustible y aire"
+    ],
+    [
+     "Referencia",
+     "FILTRO DE AIRE MOTOR (PEUGEOT,CITROEN,ETC)"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "Filtros de combustible y aire",
+    "repuesto"
+   ],
+   "related": [
+    "repuestos-bujias-bujia-estandar-c-bkr5e",
+    "repuestos-bujias-bujia-extralarga-gorda-c-k20hr-u11",
+    "repuestos-bujias-bujia-extralarga-fina-c-lkr6d-10e",
+    "repuestos-bujias-cable-de-bujias-hyu-i10-20-picanto1-2l"
+   ]
+  },
+  {
+   "id": "solar-paneles-panel-solar-bifacial-runergy-625w",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Paneles",
+   "name": "Panel Solar Bifacial Runergy 625W",
+   "short": "Panel Solar Bifacial Runergy 625W",
+   "img": null,
+   "desc": [
+    "Panel Solar Bifacial Runergy 625W. Panel fotovoltaico bifacial de 625 W, que aprovecha la luz por ambas caras para generar energía.",
+    "Consulta por WhatsApp la disponibilidad, la compatibilidad con tu instalación y las condiciones de entrega."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Paneles"
+    ],
+    [
+     "Marca",
+     "Runergy"
+    ],
+    [
+     "Potencia",
+     "625 W"
+    ],
+    [
+     "Tipo",
+     "Bifacial"
+    ]
+   ],
+   "highlights": [
+    "Bifacial · 625 W"
+   ],
+   "tags": [
+    "panel solar",
+    "energia solar",
+    "fotovoltaico",
+    "solar"
+   ],
+   "related": [
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-2",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-3",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-4"
+   ]
+  },
+  {
+   "id": "solar-reflectores-solares-panel-solar-kit-control-remoto-ref",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Reflectores solares (panel solar + kit + control remoto)",
+   "name": "Reflector 40W",
+   "short": "Reflector 40W",
+   "img": "img/solar-reflectores-solares-panel-solar-kit-control-remoto-ref.jpg",
+   "desc": [
+    "Reflector 40W. Reflector solar que incluye panel solar, kit de instalación y control remoto, para iluminar exteriores sin depender de la red eléctrica.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Reflectores solares (panel solar + kit + control remoto)"
+    ],
+    [
+     "Potencia",
+     "40 W"
+    ]
+   ],
+   "highlights": [
+    "Panel solar + kit + control remoto"
+   ],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-2",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-3",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-4",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-5"
+   ]
+  },
+  {
+   "id": "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-2",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Reflectores solares (panel solar + kit + control remoto)",
+   "name": "Reflector 80W",
+   "short": "Reflector 80W",
+   "img": "img/solar-reflectores-solares-panel-solar-kit-control-remoto-ref-2.jpg",
+   "desc": [
+    "Reflector 80W. Reflector solar que incluye panel solar, kit de instalación y control remoto, para iluminar exteriores sin depender de la red eléctrica.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Reflectores solares (panel solar + kit + control remoto)"
+    ],
+    [
+     "Potencia",
+     "80 W"
+    ]
+   ],
+   "highlights": [
+    "Panel solar + kit + control remoto"
+   ],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-3",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-4",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-5",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-bom"
+   ]
+  },
+  {
+   "id": "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-3",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Reflectores solares (panel solar + kit + control remoto)",
+   "name": "Reflector 120W",
+   "short": "Reflector 120W",
+   "img": "img/solar-reflectores-solares-panel-solar-kit-control-remoto-ref-3.jpg",
+   "desc": [
+    "Reflector 120W. Reflector solar que incluye panel solar, kit de instalación y control remoto, para iluminar exteriores sin depender de la red eléctrica.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Reflectores solares (panel solar + kit + control remoto)"
+    ],
+    [
+     "Potencia",
+     "120 W"
+    ]
+   ],
+   "highlights": [
+    "Panel solar + kit + control remoto"
+   ],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-4",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-5",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-bom",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-lin"
+   ]
+  },
+  {
+   "id": "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-4",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Reflectores solares (panel solar + kit + control remoto)",
+   "name": "Reflector solar para postes 120W (12 horas de Duración)",
+   "short": "Reflector solar para postes 120W (12 horas de Duración)",
+   "img": "img/solar-reflectores-solares-panel-solar-kit-control-remoto-ref-4.jpg",
+   "desc": [
+    "Reflector solar para postes 120W (12 horas de Duración). Reflector solar que incluye panel solar, kit de instalación y control remoto, para iluminar exteriores sin depender de la red eléctrica.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Reflectores solares (panel solar + kit + control remoto)"
+    ],
+    [
+     "Potencia",
+     "120 W"
+    ]
+   ],
+   "highlights": [
+    "Panel solar + kit + control remoto"
+   ],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-5",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-bom",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-lin",
+    "solar-tubos-led-lamparas-tubo-led-lampara-9w-900-lumens"
+   ]
+  },
+  {
+   "id": "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-5",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Reflectores solares (panel solar + kit + control remoto)",
+   "name": "Reflector solar para postes 800W",
+   "short": "Reflector solar para postes 800W",
+   "img": "img/solar-reflectores-solares-panel-solar-kit-control-remoto-ref-5.jpg",
+   "desc": [
+    "Reflector solar para postes 800W. Reflector solar con panel, kit de instalación y control remoto, para iluminar exteriores sin depender de la red eléctrica.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Reflectores solares (panel solar + kit + control remoto)"
+    ],
+    [
+     "Potencia",
+     "800 W"
+    ]
+   ],
+   "highlights": [
+    "Panel solar + kit + control remoto"
+   ],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-bom",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-lin",
+    "solar-tubos-led-lamparas-tubo-led-lampara-9w-900-lumens",
+    "solar-tubos-led-lamparas-tubo-led-lampara-18w-1800-lumens"
+   ]
+  },
+  {
+   "id": "solar-reflectores-solares-panel-solar-kit-control-remoto-bom",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Reflectores solares (panel solar + kit + control remoto)",
+   "name": "Bombillo Solar 20W",
+   "short": "Bombillo Solar 20W",
+   "img": "img/solar-reflectores-solares-panel-solar-kit-control-remoto-bom.jpg",
+   "desc": [
+    "Bombillo Solar 20W. Reflector solar que incluye panel solar, kit de instalación y control remoto, para iluminar exteriores sin depender de la red eléctrica.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Reflectores solares (panel solar + kit + control remoto)"
+    ],
+    [
+     "Potencia",
+     "20 W"
+    ]
+   ],
+   "highlights": [
+    "Panel solar + kit + control remoto"
+   ],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-lin",
+    "solar-tubos-led-lamparas-tubo-led-lampara-9w-900-lumens",
+    "solar-tubos-led-lamparas-tubo-led-lampara-18w-1800-lumens",
+    "solar-tubos-led-lamparas-tubo-led-9w-900-lumens"
+   ]
+  },
+  {
+   "id": "solar-reflectores-solares-panel-solar-kit-control-remoto-lin",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Reflectores solares (panel solar + kit + control remoto)",
+   "name": "Linterna multiuso recargable y solar",
+   "short": "Linterna multiuso recargable y solar",
+   "img": "img/solar-reflectores-solares-panel-solar-kit-control-remoto-lin.jpg",
+   "desc": [
+    "Linterna multiuso recargable y solar. Reflector solar que incluye panel solar, kit de instalación y control remoto, para iluminar exteriores sin depender de la red eléctrica.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Reflectores solares (panel solar + kit + control remoto)"
+    ]
+   ],
+   "highlights": [
+    "Panel solar + kit + control remoto"
+   ],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-tubos-led-lamparas-tubo-led-lampara-9w-900-lumens",
+    "solar-tubos-led-lamparas-tubo-led-lampara-18w-1800-lumens",
+    "solar-tubos-led-lamparas-tubo-led-9w-900-lumens",
+    "solar-tubos-led-lamparas-tubo-led-18w-1800-lumens"
+   ]
+  },
+  {
+   "id": "solar-tubos-led-lamparas-tubo-led-lampara-9w-900-lumens",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Tubos LED + lámparas",
+   "name": "Tubo LED + Lámpara 9w (900 lumens)",
+   "short": "Tubo LED + Lámpara 9w (900 lumens)",
+   "img": null,
+   "desc": [
+    "Tubo LED + Lámpara 9w (900 lumens). Iluminación pensada para ahorrar energía.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Tubos LED + lámparas"
+    ],
+    [
+     "Potencia",
+     "9 W"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-tubos-led-lamparas-tubo-led-lampara-18w-1800-lumens",
+    "solar-tubos-led-lamparas-tubo-led-9w-900-lumens",
+    "solar-tubos-led-lamparas-tubo-led-18w-1800-lumens",
+    "solar-paneles-panel-solar-bifacial-runergy-625w"
+   ]
+  },
+  {
+   "id": "solar-tubos-led-lamparas-tubo-led-lampara-18w-1800-lumens",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Tubos LED + lámparas",
+   "name": "Tubo LED + Lámpara 18w (1800 lumens)",
+   "short": "Tubo LED + Lámpara 18w (1800 lumens)",
+   "img": null,
+   "desc": [
+    "Tubo LED + Lámpara 18w (1800 lumens). Iluminación pensada para ahorrar energía.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Tubos LED + lámparas"
+    ],
+    [
+     "Potencia",
+     "18 W"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-tubos-led-lamparas-tubo-led-9w-900-lumens",
+    "solar-tubos-led-lamparas-tubo-led-18w-1800-lumens",
+    "solar-paneles-panel-solar-bifacial-runergy-625w",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref"
+   ]
+  },
+  {
+   "id": "solar-tubos-led-lamparas-tubo-led-9w-900-lumens",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Tubos LED + lámparas",
+   "name": "Tubo LED 9w (900 lumens)",
+   "short": "Tubo LED 9w (900 lumens)",
+   "img": null,
+   "desc": [
+    "Tubo LED 9w (900 lumens). Iluminación pensada para ahorrar energía.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Tubos LED + lámparas"
+    ],
+    [
+     "Potencia",
+     "9 W"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-tubos-led-lamparas-tubo-led-18w-1800-lumens",
+    "solar-paneles-panel-solar-bifacial-runergy-625w",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-2"
+   ]
+  },
+  {
+   "id": "solar-tubos-led-lamparas-tubo-led-18w-1800-lumens",
+   "cat": "solar",
+   "catTitle": "Energía solar y luminaria",
+   "group": "Tubos LED + lámparas",
+   "name": "Tubo LED 18w (1800 lumens)",
+   "short": "Tubo LED 18w (1800 lumens)",
+   "img": null,
+   "desc": [
+    "Tubo LED 18w (1800 lumens). Iluminación pensada para ahorrar energía.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de uso."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Tubos LED + lámparas"
+    ],
+    [
+     "Potencia",
+     "18 W"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "iluminacion",
+    "luz",
+    "solar"
+   ],
+   "related": [
+    "solar-paneles-panel-solar-bifacial-runergy-625w",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-2",
+    "solar-reflectores-solares-panel-solar-kit-control-remoto-ref-3"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-16a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 16A",
+   "short": "16A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 16A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "16 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-20a",
+    "electricos-breaker-dc-2p-25a",
+    "electricos-breaker-dc-2p-32a",
+    "electricos-breaker-dc-2p-40a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-20a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 20A",
+   "short": "20A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 20A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "20 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-25a",
+    "electricos-breaker-dc-2p-32a",
+    "electricos-breaker-dc-2p-40a",
+    "electricos-breaker-dc-2p-50a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-25a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 25A",
+   "short": "25A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 25A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "25 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-32a",
+    "electricos-breaker-dc-2p-40a",
+    "electricos-breaker-dc-2p-50a",
+    "electricos-breaker-dc-2p-63a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-32a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 32A",
+   "short": "32A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 32A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "32 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-40a",
+    "electricos-breaker-dc-2p-50a",
+    "electricos-breaker-dc-2p-63a",
+    "electricos-breaker-dc-2p-100a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-40a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 40A",
+   "short": "40A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 40A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "40 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-50a",
+    "electricos-breaker-dc-2p-63a",
+    "electricos-breaker-dc-2p-100a",
+    "electricos-breaker-dc-2p-125a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-50a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 50A",
+   "short": "50A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 50A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "50 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-63a",
+    "electricos-breaker-dc-2p-100a",
+    "electricos-breaker-dc-2p-125a",
+    "electricos-breaker-ac-2p-16a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-63a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 63A",
+   "short": "63A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 63A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-100a",
+    "electricos-breaker-dc-2p-125a",
+    "electricos-breaker-ac-2p-16a",
+    "electricos-breaker-ac-2p-20a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-100a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 100A",
+   "short": "100A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 100A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "100 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-125a",
+    "electricos-breaker-ac-2p-16a",
+    "electricos-breaker-ac-2p-20a",
+    "electricos-breaker-ac-2p-32a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-2p-125a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 2P",
+   "name": "Breaker DC 2P 125A",
+   "short": "125A",
+   "img": "img/electricos-breaker-dc-2p.jpg",
+   "desc": [
+    "Breaker (disyuntor) DC de 2 polos, 125A. Protege circuitos de corriente continua, como los de paneles solares y baterías, contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "125 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-2p-16a",
+    "electricos-breaker-ac-2p-20a",
+    "electricos-breaker-ac-2p-32a",
+    "electricos-breaker-ac-2p-40a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-2p-16a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 2P",
+   "name": "Breaker AC 2P 16A",
+   "short": "16A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) AC de 2 polos, 16A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "16 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-2p-20a",
+    "electricos-breaker-ac-2p-32a",
+    "electricos-breaker-ac-2p-40a",
+    "electricos-breaker-ac-2p-63a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-2p-20a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 2P",
+   "name": "Breaker AC 2P 20A",
+   "short": "20A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) AC de 2 polos, 20A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "20 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-2p-32a",
+    "electricos-breaker-ac-2p-40a",
+    "electricos-breaker-ac-2p-63a",
+    "electricos-breaker-ac-1p-16a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-2p-32a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 2P",
+   "name": "Breaker AC 2P 32A",
+   "short": "32A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) AC de 2 polos, 32A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "32 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-2p-40a",
+    "electricos-breaker-ac-2p-63a",
+    "electricos-breaker-ac-1p-16a",
+    "electricos-breaker-ac-1p-20a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-2p-40a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 2P",
+   "name": "Breaker AC 2P 40A",
+   "short": "40A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) AC de 2 polos, 40A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "40 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-2p-63a",
+    "electricos-breaker-ac-1p-16a",
+    "electricos-breaker-ac-1p-20a",
+    "electricos-breaker-ac-1p-32a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-2p-63a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 2P",
+   "name": "Breaker AC 2P 63A",
+   "short": "63A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) AC de 2 polos, 63A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 2P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-1p-16a",
+    "electricos-breaker-ac-1p-20a",
+    "electricos-breaker-ac-1p-32a",
+    "electricos-breaker-ac-1p-40a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-1p-16a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 1P",
+   "name": "Breaker AC 1P 16A",
+   "short": "16A",
+   "img": "img/electricos-breaker-ac-1p.jpg",
+   "desc": [
+    "Breaker (disyuntor) AC de 1 polo, 16A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 1P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "1"
+    ],
+    [
+     "Corriente",
+     "16 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-1p-20a",
+    "electricos-breaker-ac-1p-32a",
+    "electricos-breaker-ac-1p-40a",
+    "electricos-breaker-dc-3p-40a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-1p-20a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 1P",
+   "name": "Breaker AC 1P 20A",
+   "short": "20A",
+   "img": "img/electricos-breaker-ac-1p.jpg",
+   "desc": [
+    "Breaker (disyuntor) AC de 1 polo, 20A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 1P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "1"
+    ],
+    [
+     "Corriente",
+     "20 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-1p-32a",
+    "electricos-breaker-ac-1p-40a",
+    "electricos-breaker-dc-3p-40a",
+    "electricos-breaker-dc-3p-63a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-1p-32a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 1P",
+   "name": "Breaker AC 1P 32A",
+   "short": "32A",
+   "img": "img/electricos-breaker-ac-1p.jpg",
+   "desc": [
+    "Breaker (disyuntor) AC de 1 polo, 32A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 1P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "1"
+    ],
+    [
+     "Corriente",
+     "32 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-1p-40a",
+    "electricos-breaker-dc-3p-40a",
+    "electricos-breaker-dc-3p-63a",
+    "electricos-breaker-ac-3p-40a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-1p-40a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 1P",
+   "name": "Breaker AC 1P 40A",
+   "short": "40A",
+   "img": "img/electricos-breaker-ac-1p.jpg",
+   "desc": [
+    "Breaker (disyuntor) AC de 1 polo, 40A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 1P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "1"
+    ],
+    [
+     "Corriente",
+     "40 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-3p-40a",
+    "electricos-breaker-dc-3p-63a",
+    "electricos-breaker-ac-3p-40a",
+    "electricos-breaker-ac-3p-63a"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-3p-40a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 3P",
+   "name": "Breaker DC 3P 40A",
+   "short": "40A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) DC de 3 polos, 40A. Protege circuitos de corriente continua contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 3P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "40 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-3p-63a",
+    "electricos-breaker-ac-3p-40a",
+    "electricos-breaker-ac-3p-63a",
+    "electricos-brequeras-portabreaker-2-posiciones"
+   ]
+  },
+  {
+   "id": "electricos-breaker-dc-3p-63a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker DC 3P",
+   "name": "Breaker DC 3P 63A",
+   "short": "63A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) DC de 3 polos, 63A. Protege circuitos de corriente continua contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker DC 3P"
+    ],
+    [
+     "Tipo",
+     "Breaker DC"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "dc",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-3p-40a",
+    "electricos-breaker-ac-3p-63a",
+    "electricos-brequeras-portabreaker-2-posiciones",
+    "electricos-brequeras-portabreaker-4-posiciones"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-3p-40a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 3P",
+   "name": "Breaker AC 3P 40A",
+   "short": "40A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) AC de 3 polos, 40A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 3P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "40 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-ac-3p-63a",
+    "electricos-brequeras-portabreaker-2-posiciones",
+    "electricos-brequeras-portabreaker-4-posiciones",
+    "electricos-brequeras-portabreaker-5-posiciones"
+   ]
+  },
+  {
+   "id": "electricos-breaker-ac-3p-63a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Breaker AC 3P",
+   "name": "Breaker AC 3P 63A",
+   "short": "63A",
+   "img": null,
+   "desc": [
+    "Breaker (disyuntor) AC de 3 polos, 63A. Protege el circuito eléctrico contra sobrecargas y cortocircuitos.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Breaker AC 3P"
+    ],
+    [
+     "Tipo",
+     "Breaker AC"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "breaker",
+    "ac",
+    "electrico"
+   ],
+   "related": [
+    "electricos-brequeras-portabreaker-2-posiciones",
+    "electricos-brequeras-portabreaker-4-posiciones",
+    "electricos-brequeras-portabreaker-5-posiciones",
+    "electricos-brequeras-portabreaker-8-posiciones"
+   ]
+  },
+  {
+   "id": "electricos-brequeras-portabreaker-2-posiciones",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Brequeras (Portabreaker)",
+   "name": "Brequeras (Portabreaker) 2 posiciones",
+   "short": "2 posiciones",
+   "img": "img/electricos-brequeras-portabreaker.jpg",
+   "desc": [
+    "Caja portabreaker (brequera) de 2 posiciones. Aloja y protege los breakers de un circuito eléctrico.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Brequeras (Portabreaker)"
+    ],
+    [
+     "Posiciones",
+     "2"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "brequera",
+    "portabreaker",
+    "tablero",
+    "electrico"
+   ],
+   "related": [
+    "electricos-brequeras-portabreaker-4-posiciones",
+    "electricos-brequeras-portabreaker-5-posiciones",
+    "electricos-brequeras-portabreaker-8-posiciones",
+    "electricos-brequeras-portabreaker-12-posiciones"
+   ]
+  },
+  {
+   "id": "electricos-brequeras-portabreaker-4-posiciones",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Brequeras (Portabreaker)",
+   "name": "Brequeras (Portabreaker) 4 posiciones",
+   "short": "4 posiciones",
+   "img": "img/electricos-brequeras-portabreaker.jpg",
+   "desc": [
+    "Caja portabreaker (brequera) de 4 posiciones. Aloja y protege los breakers de un circuito eléctrico.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Brequeras (Portabreaker)"
+    ],
+    [
+     "Posiciones",
+     "4"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "brequera",
+    "portabreaker",
+    "tablero",
+    "electrico"
+   ],
+   "related": [
+    "electricos-brequeras-portabreaker-5-posiciones",
+    "electricos-brequeras-portabreaker-8-posiciones",
+    "electricos-brequeras-portabreaker-12-posiciones",
+    "electricos-transfer-switch-conmutador-2-polos-63a-110v"
+   ]
+  },
+  {
+   "id": "electricos-brequeras-portabreaker-5-posiciones",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Brequeras (Portabreaker)",
+   "name": "Brequeras (Portabreaker) 5 posiciones",
+   "short": "5 posiciones",
+   "img": "img/electricos-brequeras-portabreaker.jpg",
+   "desc": [
+    "Caja portabreaker (brequera) de 5 posiciones. Aloja y protege los breakers de un circuito eléctrico.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Brequeras (Portabreaker)"
+    ],
+    [
+     "Posiciones",
+     "5"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "brequera",
+    "portabreaker",
+    "tablero",
+    "electrico"
+   ],
+   "related": [
+    "electricos-brequeras-portabreaker-8-posiciones",
+    "electricos-brequeras-portabreaker-12-posiciones",
+    "electricos-transfer-switch-conmutador-2-polos-63a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-63a-220v"
+   ]
+  },
+  {
+   "id": "electricos-brequeras-portabreaker-8-posiciones",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Brequeras (Portabreaker)",
+   "name": "Brequeras (Portabreaker) 8 posiciones",
+   "short": "8 posiciones",
+   "img": "img/electricos-brequeras-portabreaker.jpg",
+   "desc": [
+    "Caja portabreaker (brequera) de 8 posiciones. Aloja y protege los breakers de un circuito eléctrico.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Brequeras (Portabreaker)"
+    ],
+    [
+     "Posiciones",
+     "8"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "brequera",
+    "portabreaker",
+    "tablero",
+    "electrico"
+   ],
+   "related": [
+    "electricos-brequeras-portabreaker-12-posiciones",
+    "electricos-transfer-switch-conmutador-2-polos-63a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-63a-220v",
+    "electricos-transfer-switch-conmutador-2-polos-80a-110v"
+   ]
+  },
+  {
+   "id": "electricos-brequeras-portabreaker-12-posiciones",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Brequeras (Portabreaker)",
+   "name": "Brequeras (Portabreaker) 12 posiciones",
+   "short": "12 posiciones",
+   "img": "img/electricos-brequeras-portabreaker.jpg",
+   "desc": [
+    "Caja portabreaker (brequera) de 12 posiciones. Aloja y protege los breakers de un circuito eléctrico.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Brequeras (Portabreaker)"
+    ],
+    [
+     "Posiciones",
+     "12"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "brequera",
+    "portabreaker",
+    "tablero",
+    "electrico"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-2-polos-63a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-63a-220v",
+    "electricos-transfer-switch-conmutador-2-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-80a-220v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-2-polos-63a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 2 polos 63A 110V",
+   "short": "2 polos 63A 110V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 2 polos 63A 110V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-2-polos-63a-220v",
+    "electricos-transfer-switch-conmutador-2-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-80a-220v",
+    "electricos-transfer-switch-conmutador-2-polos-100a-110v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-2-polos-63a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 2 polos 63A 220V",
+   "short": "2 polos 63A 220V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 2 polos 63A 220V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-2-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-80a-220v",
+    "electricos-transfer-switch-conmutador-2-polos-100a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-100a-220v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-2-polos-80a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 2 polos 80A 110V",
+   "short": "2 polos 80A 110V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 2 polos 80A 110V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "80 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-2-polos-80a-220v",
+    "electricos-transfer-switch-conmutador-2-polos-100a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-100a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-63a-110v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-2-polos-80a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 2 polos 80A 220V",
+   "short": "2 polos 80A 220V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 2 polos 80A 220V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "80 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-2-polos-100a-110v",
+    "electricos-transfer-switch-conmutador-2-polos-100a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-63a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-63a-220v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-2-polos-100a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 2 polos 100A 110V",
+   "short": "2 polos 100A 110V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 2 polos 100A 110V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "100 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-2-polos-100a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-63a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-63a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-80a-110v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-2-polos-100a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 2 polos 100A 220V",
+   "short": "2 polos 100A 220V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 2 polos 100A 220V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "100 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-3-polos-63a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-63a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-80a-220v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-3-polos-63a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 3 polos 63A 110V",
+   "short": "3 polos 63A 110V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 3 polos 63A 110V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-3-polos-63a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-80a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-100a-110v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-3-polos-63a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 3 polos 63A 220V",
+   "short": "3 polos 63A 220V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 3 polos 63A 220V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-3-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-80a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-100a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-100a-220v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-3-polos-80a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 3 polos 80A 110V",
+   "short": "3 polos 80A 110V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 3 polos 80A 110V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "80 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-3-polos-80a-220v",
+    "electricos-transfer-switch-conmutador-3-polos-100a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-100a-220v",
+    "electricos-transfer-switch-conmutador-4-polos-80a-110v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-3-polos-80a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 3 polos 80A 220V",
+   "short": "3 polos 80A 220V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 3 polos 80A 220V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "80 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-3-polos-100a-110v",
+    "electricos-transfer-switch-conmutador-3-polos-100a-220v",
+    "electricos-transfer-switch-conmutador-4-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-4-polos-80a-220v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-3-polos-100a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 3 polos 100A 110V",
+   "short": "3 polos 100A 110V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 3 polos 100A 110V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "100 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-3-polos-100a-220v",
+    "electricos-transfer-switch-conmutador-4-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-4-polos-80a-220v",
+    "electricos-transfer-manual-conmutador-2-polos-63a"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-3-polos-100a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 3 polos 100A 220V",
+   "short": "3 polos 100A 220V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 3 polos 100A 220V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "100 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-4-polos-80a-110v",
+    "electricos-transfer-switch-conmutador-4-polos-80a-220v",
+    "electricos-transfer-manual-conmutador-2-polos-63a",
+    "electricos-transfer-manual-conmutador-3-polos-63a"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-4-polos-80a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 4 polos 80A 110V",
+   "short": "4 polos 80A 110V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 4 polos 80A 110V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "4"
+    ],
+    [
+     "Corriente",
+     "80 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-switch-conmutador-4-polos-80a-220v",
+    "electricos-transfer-manual-conmutador-2-polos-63a",
+    "electricos-transfer-manual-conmutador-3-polos-63a",
+    "electricos-controladores-de-linea-63a-110v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-switch-conmutador-4-polos-80a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Switch (Conmutador)",
+   "name": "Transfer Switch (Conmutador) 4 polos 80A 220V",
+   "short": "4 polos 80A 220V",
+   "img": "img/electricos-transfer-switch-conmutador.jpg",
+   "desc": [
+    "Transfer switch (conmutador automático) de 4 polos 80A 220V. Cambia la alimentación entre la red eléctrica y una fuente alterna, como un sistema solar o una planta.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Switch (Conmutador)"
+    ],
+    [
+     "Polos",
+     "4"
+    ],
+    [
+     "Corriente",
+     "80 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer switch",
+    "conmutador",
+    "electrico",
+    "solar"
+   ],
+   "related": [
+    "electricos-transfer-manual-conmutador-2-polos-63a",
+    "electricos-transfer-manual-conmutador-3-polos-63a",
+    "electricos-controladores-de-linea-63a-110v",
+    "electricos-controladores-de-linea-63a-220v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-manual-conmutador-2-polos-63a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Manual (Conmutador)",
+   "name": "Transfer Manual (Conmutador) 2 polos 63A",
+   "short": "2 polos 63A",
+   "img": "img/electricos-transfer-manual-conmutador.jpg",
+   "desc": [
+    "Transfer manual (conmutador) de 2 polos 63A. Permite cambiar manualmente la alimentación entre dos fuentes.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Manual (Conmutador)"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer manual",
+    "conmutador",
+    "electrico"
+   ],
+   "related": [
+    "electricos-transfer-manual-conmutador-3-polos-63a",
+    "electricos-controladores-de-linea-63a-110v",
+    "electricos-controladores-de-linea-63a-220v",
+    "electricos-supresores-de-picos-spd-ac-275v"
+   ]
+  },
+  {
+   "id": "electricos-transfer-manual-conmutador-3-polos-63a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Transfer Manual (Conmutador)",
+   "name": "Transfer Manual (Conmutador) 3 polos 63A",
+   "short": "3 polos 63A",
+   "img": "img/electricos-transfer-manual-conmutador.jpg",
+   "desc": [
+    "Transfer manual (conmutador) de 3 polos 63A. Permite cambiar manualmente la alimentación entre dos fuentes.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Transfer Manual (Conmutador)"
+    ],
+    [
+     "Polos",
+     "3"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "transfer manual",
+    "conmutador",
+    "electrico"
+   ],
+   "related": [
+    "electricos-controladores-de-linea-63a-110v",
+    "electricos-controladores-de-linea-63a-220v",
+    "electricos-supresores-de-picos-spd-ac-275v",
+    "electricos-supresores-de-picos-spd-ac-385v"
+   ]
+  },
+  {
+   "id": "electricos-controladores-de-linea-63a-110v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Controladores de línea",
+   "name": "Controladores de línea 63A 110V",
+   "short": "63A 110V",
+   "img": "img/electricos-controladores-de-linea.jpg",
+   "desc": [
+    "Controlador de línea de 63A 110V. Protege los equipos supervisando el voltaje de la línea eléctrica.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Controladores de línea"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ],
+    [
+     "Voltaje",
+     "110 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "controlador",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-controladores-de-linea-63a-220v",
+    "electricos-supresores-de-picos-spd-ac-275v",
+    "electricos-supresores-de-picos-spd-ac-385v",
+    "electricos-supresores-de-picos-spd-dc-500v"
+   ]
+  },
+  {
+   "id": "electricos-controladores-de-linea-63a-220v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Controladores de línea",
+   "name": "Controladores de línea 63A 220V",
+   "short": "63A 220V",
+   "img": "img/electricos-controladores-de-linea.jpg",
+   "desc": [
+    "Controlador de línea de 63A 220V. Protege los equipos supervisando el voltaje de la línea eléctrica.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Controladores de línea"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ],
+    [
+     "Voltaje",
+     "220 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "controlador",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-supresores-de-picos-spd-ac-275v",
+    "electricos-supresores-de-picos-spd-ac-385v",
+    "electricos-supresores-de-picos-spd-dc-500v",
+    "electricos-supresores-de-picos-spd-dc-1000v"
+   ]
+  },
+  {
+   "id": "electricos-supresores-de-picos-spd-ac-275v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Supresores de picos (SPD)",
+   "name": "Supresores de picos (SPD) AC 275V",
+   "short": "AC 275V",
+   "img": "img/electricos-supresores-de-picos-spd.jpg",
+   "desc": [
+    "Supresor de picos de tensión (SPD) AC 275V. Protege la instalación contra sobretensiones y descargas.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Supresores de picos (SPD)"
+    ],
+    [
+     "Tipo",
+     "AC"
+    ],
+    [
+     "Voltaje",
+     "275 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "spd",
+    "supresor",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-supresores-de-picos-spd-ac-385v",
+    "electricos-supresores-de-picos-spd-dc-500v",
+    "electricos-supresores-de-picos-spd-dc-1000v",
+    "electricos-portafusibles-2p-32a-1100v-con-led"
+   ]
+  },
+  {
+   "id": "electricos-supresores-de-picos-spd-ac-385v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Supresores de picos (SPD)",
+   "name": "Supresores de picos (SPD) AC 385V",
+   "short": "AC 385V",
+   "img": "img/electricos-supresores-de-picos-spd.jpg",
+   "desc": [
+    "Supresor de picos de tensión (SPD) AC 385V. Protege la instalación contra sobretensiones y descargas.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Supresores de picos (SPD)"
+    ],
+    [
+     "Tipo",
+     "AC"
+    ],
+    [
+     "Voltaje",
+     "385 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "spd",
+    "supresor",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-supresores-de-picos-spd-dc-500v",
+    "electricos-supresores-de-picos-spd-dc-1000v",
+    "electricos-portafusibles-2p-32a-1100v-con-led",
+    "electricos-contactores-magneticos-63a"
+   ]
+  },
+  {
+   "id": "electricos-supresores-de-picos-spd-dc-500v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Supresores de picos (SPD)",
+   "name": "Supresores de picos (SPD) DC 500V",
+   "short": "DC 500V",
+   "img": "img/electricos-supresores-de-picos-spd.jpg",
+   "desc": [
+    "Supresor de picos de tensión (SPD) DC 500V. Protege la instalación contra sobretensiones y descargas.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Supresores de picos (SPD)"
+    ],
+    [
+     "Tipo",
+     "DC"
+    ],
+    [
+     "Voltaje",
+     "500 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "spd",
+    "supresor",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-supresores-de-picos-spd-dc-1000v",
+    "electricos-portafusibles-2p-32a-1100v-con-led",
+    "electricos-contactores-magneticos-63a",
+    "electricos-fusibles-25a"
+   ]
+  },
+  {
+   "id": "electricos-supresores-de-picos-spd-dc-1000v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Supresores de picos (SPD)",
+   "name": "Supresores de picos (SPD) DC 1000V",
+   "short": "DC 1000V",
+   "img": "img/electricos-supresores-de-picos-spd.jpg",
+   "desc": [
+    "Supresor de picos de tensión (SPD) DC 1000V. Protege la instalación contra sobretensiones y descargas.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Supresores de picos (SPD)"
+    ],
+    [
+     "Tipo",
+     "DC"
+    ],
+    [
+     "Voltaje",
+     "1000 V"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "spd",
+    "supresor",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-portafusibles-2p-32a-1100v-con-led",
+    "electricos-contactores-magneticos-63a",
+    "electricos-fusibles-25a",
+    "electricos-fusibles-32a"
+   ]
+  },
+  {
+   "id": "electricos-portafusibles-2p-32a-1100v-con-led",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Portafusibles",
+   "name": "Portafusibles 2P 32A 1100V con LED",
+   "short": "2P 32A 1100V con LED",
+   "img": "img/electricos-portafusibles.jpg",
+   "desc": [
+    "Portafusibles 2P 32A 1100V con LED. Aloja y protege los fusibles de circuitos fotovoltaicos de corriente continua.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Portafusibles"
+    ],
+    [
+     "Polos",
+     "2"
+    ],
+    [
+     "Corriente",
+     "32 A"
+    ],
+    [
+     "Voltaje",
+     "1100 V"
+    ],
+    [
+     "Indicador",
+     "LED"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "portafusibles",
+    "fusible",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-contactores-magneticos-63a",
+    "electricos-fusibles-25a",
+    "electricos-fusibles-32a",
+    "electricos-presillas-para-sujetar-los-paneles-centrales"
+   ]
+  },
+  {
+   "id": "electricos-contactores-magneticos-63a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Contactores magnéticos",
+   "name": "Contactores magnéticos 63A",
+   "short": "63A",
+   "img": "img/electricos-contactores-magneticos.jpg",
+   "desc": [
+    "Contactor magnético de 63A. Permite conectar y desconectar cargas eléctricas de forma remota o automática.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Contactores magnéticos"
+    ],
+    [
+     "Corriente",
+     "63 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "contactor",
+    "electrico"
+   ],
+   "related": [
+    "electricos-fusibles-25a",
+    "electricos-fusibles-32a",
+    "electricos-presillas-para-sujetar-los-paneles-centrales",
+    "electricos-presillas-para-sujetar-los-paneles-laterales"
+   ]
+  },
+  {
+   "id": "electricos-fusibles-25a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Fusibles",
+   "name": "Fusibles 25A",
+   "short": "25A",
+   "img": "img/electricos-fusibles.jpg",
+   "desc": [
+    "Fusible de 25A. Protege el circuito interrumpiendo la corriente ante sobrecargas.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Fusibles"
+    ],
+    [
+     "Corriente",
+     "25 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "fusible",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-fusibles-32a",
+    "electricos-presillas-para-sujetar-los-paneles-centrales",
+    "electricos-presillas-para-sujetar-los-paneles-laterales",
+    "electricos-conectores-xt60i"
+   ]
+  },
+  {
+   "id": "electricos-fusibles-32a",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Fusibles",
+   "name": "Fusibles 32A",
+   "short": "32A",
+   "img": "img/electricos-fusibles.jpg",
+   "desc": [
+    "Fusible de 32A. Protege el circuito interrumpiendo la corriente ante sobrecargas.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Fusibles"
+    ],
+    [
+     "Corriente",
+     "32 A"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "fusible",
+    "proteccion",
+    "electrico"
+   ],
+   "related": [
+    "electricos-presillas-para-sujetar-los-paneles-centrales",
+    "electricos-presillas-para-sujetar-los-paneles-laterales",
+    "electricos-conectores-xt60i",
+    "electricos-conectores-mc4-estandar"
+   ]
+  },
+  {
+   "id": "electricos-presillas-para-sujetar-los-paneles-centrales",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Presillas para sujetar los paneles",
+   "name": "Presillas para sujetar los paneles Centrales",
+   "short": "Centrales",
+   "img": "img/electricos-presillas-para-sujetar-los-paneles.jpg",
+   "desc": [
+    "Presillas Centrales para sujetar los paneles solares a la estructura de montaje.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Presillas para sujetar los paneles"
+    ],
+    [
+     "Tipo",
+     "Centrales"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "presilla",
+    "soporte",
+    "panel solar",
+    "solar"
+   ],
+   "related": [
+    "electricos-presillas-para-sujetar-los-paneles-laterales",
+    "electricos-conectores-xt60i",
+    "electricos-conectores-mc4-estandar",
+    "electricos-conectores-mc4-tipo-y"
+   ]
+  },
+  {
+   "id": "electricos-presillas-para-sujetar-los-paneles-laterales",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Presillas para sujetar los paneles",
+   "name": "Presillas para sujetar los paneles Laterales",
+   "short": "Laterales",
+   "img": "img/electricos-presillas-para-sujetar-los-paneles.jpg",
+   "desc": [
+    "Presillas Laterales para sujetar los paneles solares a la estructura de montaje.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Presillas para sujetar los paneles"
+    ],
+    [
+     "Tipo",
+     "Laterales"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "presilla",
+    "soporte",
+    "panel solar",
+    "solar"
+   ],
+   "related": [
+    "electricos-conectores-xt60i",
+    "electricos-conectores-mc4-estandar",
+    "electricos-conectores-mc4-tipo-y",
+    "electricos-cable-fotovoltaico-calibre-10-100m"
+   ]
+  },
+  {
+   "id": "electricos-conectores-xt60i",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Conectores",
+   "name": "Conectores XT60i",
+   "short": "XT60i",
+   "img": "img/electricos-conectores.jpg",
+   "desc": [
+    "Conector XT60i para instalaciones eléctricas y de paneles solares.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Conectores"
+    ],
+    [
+     "Modelo",
+     "XT60i"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "conector",
+    "mc4",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-conectores-mc4-estandar",
+    "electricos-conectores-mc4-tipo-y",
+    "electricos-cable-fotovoltaico-calibre-10-100m",
+    "electricos-cable-fotovoltaico-calibre-12-100m"
+   ]
+  },
+  {
+   "id": "electricos-conectores-mc4-estandar",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Conectores",
+   "name": "Conectores MC4 estándar",
+   "short": "MC4 estándar",
+   "img": "img/electricos-conectores.jpg",
+   "desc": [
+    "Conector MC4 estándar para instalaciones eléctricas y de paneles solares.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Conectores"
+    ],
+    [
+     "Modelo",
+     "MC4 estándar"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "conector",
+    "mc4",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-conectores-mc4-tipo-y",
+    "electricos-cable-fotovoltaico-calibre-10-100m",
+    "electricos-cable-fotovoltaico-calibre-12-100m",
+    "electricos-cable-electrico-royal-cord-calibre-12-100m"
+   ]
+  },
+  {
+   "id": "electricos-conectores-mc4-tipo-y",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Conectores",
+   "name": "Conectores MC4 tipo Y",
+   "short": "MC4 tipo Y",
+   "img": "img/electricos-conectores.jpg",
+   "desc": [
+    "Conector MC4 tipo Y para instalaciones eléctricas y de paneles solares.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Conectores"
+    ],
+    [
+     "Modelo",
+     "MC4 tipo Y"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "conector",
+    "mc4",
+    "solar",
+    "electrico"
+   ],
+   "related": [
+    "electricos-cable-fotovoltaico-calibre-10-100m",
+    "electricos-cable-fotovoltaico-calibre-12-100m",
+    "electricos-cable-electrico-royal-cord-calibre-12-100m",
+    "electricos-cargador-de-baterias-inteligente-de-12v-y-24v"
+   ]
+  },
+  {
+   "id": "electricos-cable-fotovoltaico-calibre-10-100m",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Cable fotovoltaico",
+   "name": "Cable fotovoltaico Calibre 10 (100m)",
+   "short": "Calibre 10 (100m)",
+   "img": "img/electricos-cable-fotovoltaico.jpg",
+   "desc": [
+    "Cable fotovoltaico Calibre 10 (100m). Cable para conectar paneles solares, diseñado para exteriores.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Cable fotovoltaico"
+    ],
+    [
+     "Calibre",
+     "10"
+    ],
+    [
+     "Longitud",
+     "100 m"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "cable",
+    "fotovoltaico",
+    "solar"
+   ],
+   "related": [
+    "electricos-cable-fotovoltaico-calibre-12-100m",
+    "electricos-cable-electrico-royal-cord-calibre-12-100m",
+    "electricos-cargador-de-baterias-inteligente-de-12v-y-24v",
+    "electricos-breaker-dc-2p-16a"
+   ]
+  },
+  {
+   "id": "electricos-cable-fotovoltaico-calibre-12-100m",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Cable fotovoltaico",
+   "name": "Cable fotovoltaico Calibre 12 (100m)",
+   "short": "Calibre 12 (100m)",
+   "img": "img/electricos-cable-fotovoltaico.jpg",
+   "desc": [
+    "Cable fotovoltaico Calibre 12 (100m). Cable para conectar paneles solares, diseñado para exteriores.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Cable fotovoltaico"
+    ],
+    [
+     "Calibre",
+     "12"
+    ],
+    [
+     "Longitud",
+     "100 m"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "cable",
+    "fotovoltaico",
+    "solar"
+   ],
+   "related": [
+    "electricos-cable-electrico-royal-cord-calibre-12-100m",
+    "electricos-cargador-de-baterias-inteligente-de-12v-y-24v",
+    "electricos-breaker-dc-2p-16a",
+    "electricos-breaker-dc-2p-20a"
+   ]
+  },
+  {
+   "id": "electricos-cable-electrico-royal-cord-calibre-12-100m",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Cable eléctrico",
+   "name": "Cable eléctrico Royal Cord calibre 12 (100m)",
+   "short": "Royal Cord calibre 12 (100m)",
+   "img": null,
+   "desc": [
+    "Cable eléctrico Royal Cord calibre 12 (100m). Cable flexible para instalaciones y extensiones eléctricas.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Cable eléctrico"
+    ],
+    [
+     "Marca",
+     "Royal Cord"
+    ],
+    [
+     "Calibre",
+     "12"
+    ],
+    [
+     "Longitud",
+     "100 m"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "cable",
+    "electrico"
+   ],
+   "related": [
+    "electricos-cargador-de-baterias-inteligente-de-12v-y-24v",
+    "electricos-breaker-dc-2p-16a",
+    "electricos-breaker-dc-2p-20a",
+    "electricos-breaker-dc-2p-25a"
+   ]
+  },
+  {
+   "id": "electricos-cargador-de-baterias-inteligente-de-12v-y-24v",
+   "cat": "electricos",
+   "catTitle": "Componentes eléctricos",
+   "group": "Cargador de baterías",
+   "name": "Cargador de baterías Inteligente de 12V y 24V",
+   "short": "Inteligente de 12V y 24V",
+   "img": "img/electricos-cargador-de-baterias.jpg",
+   "desc": [
+    "Cargador de baterías Inteligente de 12V y 24V. Carga baterías de 12 V y 24 V de forma automática.",
+    "Si tienes dudas sobre cuál corresponde a tu instalación, consulta con un electricista o escríbenos por WhatsApp."
+   ],
+   "specs": [
+    [
+     "Categoría",
+     "Cargador de baterías"
+    ],
+    [
+     "Voltaje",
+     "12 V / 24 V"
+    ],
+    [
+     "Tipo",
+     "Inteligente"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "cargador",
+    "bateria",
+    "electrico"
+   ],
+   "related": [
+    "electricos-breaker-dc-2p-16a",
+    "electricos-breaker-dc-2p-20a",
+    "electricos-breaker-dc-2p-25a",
+    "electricos-breaker-dc-2p-32a"
+   ]
+  },
+  {
+   "id": "construccion-saco-de-cemento-p400-50kg",
+   "cat": "construccion",
+   "catTitle": "Materiales de la construcción",
+   "group": "Cemento",
+   "name": "Saco de Cemento P400 (50kg)",
+   "short": "Saco de Cemento P400 (50kg)",
+   "img": null,
+   "desc": [
+    "Saco de cemento P400 de 50 kg. Material para obras de construcción.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de entrega."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cemento P400"
+    ],
+    [
+     "Peso",
+     "50 kg"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "cemento",
+    "construccion"
+   ],
+   "related": [
+    "construccion-saco-de-cemento-p350-portland-42-5kg"
+   ]
+  },
+  {
+   "id": "construccion-saco-de-cemento-p350-portland-42-5kg",
+   "cat": "construccion",
+   "catTitle": "Materiales de la construcción",
+   "group": "Cemento",
+   "name": "Saco de Cemento P350 Portland (42.5kg)",
+   "short": "Saco de Cemento P350 Portland (42.5kg)",
+   "img": null,
+   "desc": [
+    "Saco de cemento P350 Portland de 42.5 kg. Material para obras de construcción.",
+    "Consulta por WhatsApp la disponibilidad y las condiciones de entrega."
+   ],
+   "specs": [
+    [
+     "Tipo",
+     "Cemento P350 Portland"
+    ],
+    [
+     "Peso",
+     "42.5 kg"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "cemento",
+    "construccion"
+   ],
+   "related": [
+    "construccion-saco-de-cemento-p400-50kg"
+   ]
+  },
+  {
+   "id": "oficina-paquete-de-hojas-carta-500-u",
+   "cat": "oficina",
+   "catTitle": "Material de oficina",
+   "group": "Papelería",
+   "name": "Paquete de hojas Carta 500 U",
+   "short": "Paquete de hojas Carta 500 U",
+   "img": null,
+   "desc": [
+    "Paquete de 500 hojas tamaño Carta para impresión y oficina.",
+    "Consulta por WhatsApp la disponibilidad."
+   ],
+   "specs": [
+    [
+     "Formato",
+     "Carta"
+    ],
+    [
+     "Cantidad",
+     "500 hojas"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "papel",
+    "hojas",
+    "oficina"
+   ],
+   "related": []
+  },
+  {
+   "id": "ferreteria-maleta-de-herramientas-216-u",
+   "cat": "ferreteria",
+   "catTitle": "Ferretería",
+   "group": "Herramientas",
+   "name": "Maleta de herramientas 216 U",
+   "short": "Maleta de herramientas 216 U",
+   "img": "img/ferreteria-maleta-de-herramientas-216-u.jpg",
+   "desc": [
+    "Maleta de herramientas de 216 piezas, con llaves, dados y accesorios en un estuche.",
+    "Consulta por WhatsApp la disponibilidad y el contenido exacto."
+   ],
+   "specs": [
+    [
+     "Piezas",
+     "216"
+    ],
+    [
+     "Presentación",
+     "Maleta"
+    ]
+   ],
+   "highlights": [],
+   "tags": [
+    "herramientas",
+    "ferreteria",
+    "maleta"
+   ],
+   "related": []
+  }
+ ]
+};
